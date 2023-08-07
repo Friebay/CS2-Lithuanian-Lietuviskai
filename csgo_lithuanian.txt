@@ -136,7 +136,14 @@
 		"GameUI_Disconnect_TooManyCommands" "Išduota per daug komandų serveriui."
 		"GameUI_Disconnect_DeltaEntMessage" "Per daug subjektų serveryje."
 		"GameUI_Disconnect_TickMessage" "Serveriui nepavyko įrašyti kliento pažymėjimo pranešimo."
-
+		
+		"GameUI_Disconnect_ConnectionTimedout"		"Nepavyksta užmegzti ryšio su serveriu."
+		
+		"GameUI_Disconnect_LocalProblem_ManyRelays" "Prarastas ryšys, net ir išbandžius keletą retransliatorių skirtingose geografinėse vietovėse.  Labiausiai tikėtina priežastis - interneto ryšio problemos."
+		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay" "Žaidimų serveris prarado ryšį su pagrindine retransliavimo linija, kurią naudojo klientas."
+		"GameUI_Disconnect_LocalProblem_NetworkConfig" "Patikrinkite savo interneto ryšį.  Nepavyko atsisiųsti tinklo konfigūracijos iš CDN."
+		"GameUI_Disconnect_LocalProblem_Other" "Atjungta.  Atrodo, kad gali būti problemų su jūsų interneto ryšiu."
+		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
