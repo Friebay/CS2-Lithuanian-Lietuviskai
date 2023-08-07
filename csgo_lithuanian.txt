@@ -258,6 +258,10 @@
 		"tooltip_friend_invited_you" "Kvietimas iš <b>{s:friendname}</b>"
 		"tooltip_lobby_leader_name" "{s:friendname}"
 		
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	//Play menu
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		
 		"prime_only_label"									"Tik pirminiai žaidėjai"
 		"prime_priority_label"								"Pirminiai ir nepirminiai žaidėjai"
 		"prime_ranked"										"Reitinguojami žaidimai"
@@ -271,8 +275,12 @@
 		"permissions_private"								"Draugams reikalingi pakvietimai"
 		"permissions_group"									"Steam grupė ir draugai"
 
-	// MATCH READY BUTTON
+	// Accept Match Popup
 		"match_ready_accept"								"PATVIRTINTI"
+
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	//Buy Menu
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 		"BuyMenu_Pistols"									"PISTOLETAI"
 		"BuyMenu_HeavyWeapons"								"SUNKIEJI"
@@ -359,8 +367,7 @@
 		"store_btn_filter_coupons"							"Ieškoti Kuponų"
 		"store_btn_filter_coupons_browse"					"Naršyti Kuponus"
 
-	// SKILL GROUPS
-	// COMP RANKS
+	//Player Profile
 		"skillgroup_0"										"Įgūdžių grupė paslėpta"
 		"skillgroup_expired"								"Įgūdžių grupės galiojimo laikas pasibaigė"
 		"skillgroup_recalibrating"							"Įgūdžių grupės kalibravimas"
@@ -390,7 +397,6 @@
 		"skillgroup_17"										"Aukščiausios Klasės Profesionalas"
 		"skillgroup_18"										"Pasaulinis Elitas"
 
-	// DZ RANKS
 		"skillgroup_1dangerzone"							"Bandymų Žiurkė I"
 		"skillgroup_2dangerzone"							"Bandymų Žiurkė II"
 		"skillgroup_3dangerzone"							"Bėgantis Kiškis I"
@@ -409,7 +415,7 @@
 
 
 
-	// FRIENDS LIST
+	//Friends List
 		"FriendsList_nodata_friends_title"					"Prisijungę draugai"
 		"FriendsList_nodata_friends"						"Jūsų draugai dabar nėra prisijungę.\n\nJei jūs ieškote žaidėjų su kuriais galėtumėte žaisti, pabandykite prisijungti prie fojė arba žaiskite prisijungęs ir papildykite savo „Pastarieji komandos nariai“ skiltį.\n"
 		"FriendsList_nodata_recents_title"					"Pastarieji komandos nariai"
