@@ -105,6 +105,16 @@
 		"GameUI_SaveAs" "Išsaugoti kaip..."
 		"GameUI_Refresh" "Atnaujinti"
 		"GameUI_OpenFile" "Atidaryti failą"
+		
+		"GameUI_Category_HudOptions" "HUD PARINKTYS"
+		"GameUI_Category_TeamOptions" "KOMANDOS PARINKTYS"
+		"GameUI_Category_SpecAndScoreOptions" "ŽIŪROVO IR TAŠKŲ LENTELĖS PARINKTYS"
+		"GameUI_Category_ItemOptions" "DAIKTŲ PARINKTYS"
+		"GameUI_Category_RadarOptions" "RADARO PARINKTYS"
+		"GameUI_Category_KeyBindings" "KLAVIATŪROS SĄSAJOS"
+		"GameUI_Category_ControllerBindings" "PULTELIO SĄSAJOS"
+		"GameUI_Category_AdvancedVideo" "IŠPLĖSTINĖS VAIZDO PARINKTYS"
+		"GameUI_Category_MyMusic" "MUZIKOS PARINKTYS"
 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
