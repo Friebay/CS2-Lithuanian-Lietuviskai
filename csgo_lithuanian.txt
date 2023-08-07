@@ -79,6 +79,24 @@
 		"tooltip_copycrosshair" "Kopijuoti taikiklį"
 		"GameUI_Xhair_Copy_Code_Confirm" "Pakeisti dabartinį taikikliį?"
 
+		"GameUI_Language_English" "Anglų"
+		"GameUI_Language_German" "Vokiečių"
+		"GameUI_Language_French" "Prancūzų"
+		"GameUI_Language_Italian" "Italų"
+		"GameUI_Language_Korean" "Korėjiečių"
+		"GameUI_Language_Spanish" "Ispanų"
+		"GameUI_Language_Simplified_Chinese" "Supaprastinta kinų kalba"
+		"GameUI_Language_Traditional_Chinese" "Tradicinė kinų kalba"
+		"GameUI_Language_Russian" "Rusų"
+		"GameUI_Language_Thai" "Tajų "
+		"GameUI_Language_Japanese" "Japonų"
+		"GameUI_Language_Portuguese" "Portugalų"
+		"GameUI_Language_Polish" "Lenkų"
+		"GameUI_Language_Danish" "Danų"
+		"GameUI_Language_Dutch" "Olandų"
+		"GameUI_Language_Finnish" "Suomių"
+		"GameUI_Language_Norvegian" "Norvegų"
+		"GameUI_Language_Swedish" "Švedų"
 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
