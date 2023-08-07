@@ -68,7 +68,7 @@
 		"GameUI_Always" "Visada"
 		"GameUI_ObservedBotCrosshair_Takeover" "Kai galiu perimti botą"
 		"GameUI_ObservedBotCrosshair_Default" "Niekada"
-		
+
 		"GameUI_Xhair_Reset_Tooltip" "Atstatyti visus taikiklio nustatymus į numatytąsias."
 		"GameUI_Xhair_Undo_Tooltip" "Atšaukti neseniai atliktus taikiklio pakeitimus."
 		"GameUI_Xhair_CopyCode_Tooltip" "Bendrinti arba importuoti taikiklio kodą."
@@ -97,6 +97,14 @@
 		"GameUI_Language_Finnish" "Suomių"
 		"GameUI_Language_Norvegian" "Norvegų"
 		"GameUI_Language_Swedish" "Švedų"
+
+		"GameUI_Map" "Žemėlapis"
+		"GameUI_Close" "Uždaryti"
+		"GameUI_Load" "Įkelti"
+		"GameUI_Save" "Išsaugoti"
+		"GameUI_SaveAs" "Išsaugoti kaip..."
+		"GameUI_Refresh" "Atnaujinti"
+		"GameUI_OpenFile" "Atidaryti failą"
 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
