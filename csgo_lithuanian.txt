@@ -139,10 +139,10 @@
 		
 		"GameUI_Disconnect_ConnectionTimedout"		"Nepavyksta užmegzti ryšio su serveriu."
 		
-		"GameUI_Disconnect_LocalProblem_ManyRelays" "Prarastas ryšys, net ir išbandžius keletą retransliatorių skirtingose geografinėse vietovėse.  Labiausiai tikėtina priežastis - interneto ryšio problemos."
+		"GameUI_Disconnect_LocalProblem_ManyRelays" "Prarastas ryšys, net ir išbandžius keletą retransliatorių skirtingose geografinėse vietovėse. Labiausiai tikėtina priežastis - interneto ryšio problemos."
 		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay" "Žaidimų serveris prarado ryšį su pagrindine retransliavimo linija, kurią naudojo klientas."
-		"GameUI_Disconnect_LocalProblem_NetworkConfig" "Patikrinkite savo interneto ryšį.  Nepavyko atsisiųsti tinklo konfigūracijos iš CDN."
-		"GameUI_Disconnect_LocalProblem_Other" "Atjungta.  Atrodo, kad gali būti problemų su jūsų interneto ryšiu."
+		"GameUI_Disconnect_LocalProblem_NetworkConfig" "Patikrinkite savo interneto ryšį. Nepavyko atsisiųsti tinklo konfigūracijos iš CDN."
+		"GameUI_Disconnect_LocalProblem_Other" "Atjungta. Atrodo, kad gali būti problemų su jūsų interneto ryšiu."
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
@@ -163,8 +163,15 @@
 		"party_lobby_started"								"Sukurta komanda, paspauskite, kad kalbėtumėtės"
 		"party_lobby_connected"								"Prisijungta prie komandos. Paspauskite, kad atidarytumėte pokalbį"
 	
-	// MAIN MENU TOOLTIPS
-
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	//Anti-Addiction
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		
+	
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	//Tooltips
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		
 		"tooltip_navbar_home"								"Prietaisų skydelis"
 		"tooltip_navbar_play"								"Žaisti CS:GO"
 		"tooltip_navbar_settings"							"Nustatymų meniu"
@@ -228,6 +235,28 @@
 		
 		"tooltip_invite"				"Pakvieskite draugą žaisti"
 		"tooltip_Join"					"Prisijunkite prie draugo"
+		"tooltip_watch" "Stebėti vykstantį žaidimą"
+		"tooltip_steamprofile" "Peržiūrėti bendruomenės profilį"
+		"tooltip_message" "Siųsti žinutę"
+		"tooltip_trade" "Prekiauti su draugu"
+		"tooltip_friendaccept" "Priimti draugo užklausą"
+		"tooltip_friendignore" "Ignoruoti draugo užklausą"
+		"tooltip_removefriend" "Pašalinti draugą"
+		"tooltip_request" "Siųsti draugo užklausą"
+		"tooltip_kick_from_lobby" "Išmesti iš komandos"
+		"tooltip_leave_lobby" "Išeiti iš komandos"
+		"tooltip_editprofile" "Redaguoti bendruomenės profilį"
+		"tooltip_changecolor" "Pakeisti pageidaujamą spalvą"
+		"tooltip_mute" "Vilkite arba spustelėkite, kad pakeistumėte balso garsumą"
+		"tooltip_report" "Pranešti"
+		"tooltip_commend"				"Pagirti"
+		"tooltip_borrowmusickit" "Pasiskolinti muzikos rinkinį"
+		"tooltip_stopborrowmusickit" "Nustoti skolintis muzikos rinkinį"
+		"tooltip_cancelinvite" "Atšaukti laukiančią draugo užklausą"
+		"tooltip_canelsearch" "Atšaukti paiešką"
+		"tooltip_discard_invite" "Atmesti šį kvietimą"
+		"tooltip_friend_invited_you" "Kvietimas iš <b>{s:friendname}</b>"
+		"tooltip_lobby_leader_name" "{s:friendname}"
 		
 		"prime_only_label"									"Tik pirminiai žaidėjai"
 		"prime_priority_label"								"Pirminiai ir nepirminiai žaidėjai"
@@ -710,7 +739,7 @@
 		"SFUI_XP_RankName_7"								"Kapralas."
 		"SFUI_XP_RankName_8" 								"Kapralas."
 
-		"SFUI_XP_RankName_9" 								"Seržantas."                     
+		"SFUI_XP_RankName_9" 								"Seržantas."
 		"SFUI_XP_RankName_10"								"Seržantas."
 		"SFUI_XP_RankName_11"								"Seržantas."
 		"SFUI_XP_RankName_12"								"Seržantas."
