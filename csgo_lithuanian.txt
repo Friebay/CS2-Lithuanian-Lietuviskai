@@ -142,7 +142,17 @@
 		"GameUI_Disconnect_LocalProblem_ManyRelays" "Prarastas ryšys, net ir išbandžius keletą retransliatorių skirtingose geografinėse vietovėse. Labiausiai tikėtina priežastis - interneto ryšio problemos."
 		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay" "Žaidimų serveris prarado ryšį su pagrindine retransliavimo linija, kurią naudojo klientas."
 		"GameUI_Disconnect_LocalProblem_NetworkConfig" "Patikrinkite savo interneto ryšį. Nepavyko atsisiųsti tinklo konfigūracijos iš CDN."
-		"GameUI_Disconnect_LocalProblem_Other" "Atjungta. Atrodo, kad gali būti problemų su jūsų interneto ryšiu."
+		"GameUI_Disconnect_LocalProblem_Other" "Atjungta. Panašu, kad gali būti problemų su jūsų interneto ryšiu."
+		
+		"GameUI_Disconnect_RemoteProblem_Timeout" "Žaidimas nustojo priimti ryšius iš nuotolinio serverio."
+		"GameUI_Disconnect_RemoteProblem_TimeoutConnecting" "Po kelių bandymų prisijungti, serveris neatsakė."
+		"GameUI_Disconnect_RemoteProblem_Other" "Problema bendraujant su nuotoliniu serveriu."
+		"GameUI_Disconnect_RemoteProblem_BadCrypt" "Nuotolinis serveris pateikė blogą sertifikatą arba yra netinkamai sukonfigūruotas."
+		"GameUI_Disconnect_RemoteProblem_BadCert" "Nuotolinis serveris pateikė sertifikatą, kurio negalima naudoti autentifikavimui."
+		"GameUI_Disconnect_ClosedByPeer" "Nuotolinis serveris uždarė ryšį."
+		"GameUI_Disconnect_ClosedByPeer_Timeout" "Nuotolinis serveris nustojo priimti ryšius ir uždarė ryšį."
+		"GameUI_Disconnect_Unusual" "Atjungta.  Daugiau informacijos gali būti pateikta konsolėje."
+		"GameUI_Disconnect_InternalError" "Atjungta dėl vidinės klaidos.  Konsolėje gali būti daugiau informacijos."
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
@@ -412,8 +422,6 @@
 		"skillgroup_13dangerzone"							"Žarijų Vilkas"
 		"skillgroup_14dangerzone"							"Laukinės Ugnies Vilkas"
 		"skillgroup_15dangerzone"							"Kaukianti Alfa"
-
-
 
 	//Friends List
 		"FriendsList_nodata_friends_title"					"Prisijungę draugai"
