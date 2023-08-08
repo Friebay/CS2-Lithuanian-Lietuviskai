@@ -154,6 +154,20 @@
 		"GameUI_Disconnect_Unusual" "Atjungta.  Daugiau informacijos gali būti pateikta konsolėje."
 		"GameUI_Disconnect_InternalError" "Atjungta dėl vidinės klaidos.  Konsolėje gali būti daugiau informacijos."
 		
+		"Workshop_Preview_ShowStatTrak" "Rodyti StatTrak™"
+		"Workshop_Preview_ShowNameTag" "Rodyti vardo žymą"
+		"Workshop_Preview_Dialog_Title" "Dirbtuvių darbalaukis"
+		"Workshop_Preview_Workbench" "Darbo stalas"
+		"Workshop_Preview_Hold" "Laikyti"
+		"Workshop_Preview_GreenScreen" "Žaliasis ekranas"
+		"Workshop_Preview_SideView" "Šoninis vaizdas"
+		"Workshop_Preview_Inspect" "Apžiūrėti"
+		"Workshop_Preview_Variant" "Variantas"
+		"Workshop_Preview_Discard" "Atmetimas"
+		"Workshop_Preview_Warning" "Įspėjimas!"
+		"Workshop_Preview_Unsaved" "Jūs turite neišsaugotų pakeitimų!"
+		"Workshop_Preview_Roll" "Roll:"
+		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
