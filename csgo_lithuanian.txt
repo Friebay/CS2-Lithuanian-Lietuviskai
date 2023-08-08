@@ -194,6 +194,21 @@
 		"Workshop_Preview_Import_Error_Writing_Temp_Output" "Klaida kuriant laikinąjį failą."
 		"Workshop_Preview_Import_Error_Unexpected" "Įvyko netikėta klaida."
 		
+		// Published File Browser Dialog
+		"Browse_Published_Files" "Naršyti publikuoti failus"
+		"Published_Files" "Publikuoti failai:"
+		"Button_Add" "Pridėti"
+		"Button_Delete" "Ištrinti"
+		"Button_Edit_nodots" "Redaguoti"
+		"Button_Refresh" "Atnaujinti"
+		"Button_Weapon_Finish" "Ginklo apdaila"
+		"Button_Sticker" "Lipdukas"
+		"Button_Spray" "Grafitis"
+		"Button_Map" "Žemėlapis"
+		"Button_Model" "Modelis"
+		"Button_Musickit" "Muzikos rinkinys"
+		"Button_All" "Visi"
+		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
