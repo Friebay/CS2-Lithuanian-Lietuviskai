@@ -166,7 +166,22 @@
 		"Workshop_Preview_Discard" "Atmetimas"
 		"Workshop_Preview_Warning" "Įspėjimas!"
 		"Workshop_Preview_Unsaved" "Jūs turite neišsaugotų pakeitimų!"
-		"Workshop_Preview_Roll" "Roll:"
+		"Workshop_Preview_Roll" "Apsukti:"
+		"Workshop_Preview_RangeParams" "Atsitiktiniai diapazono parametrai:"
+		"Workshop_Preview_CurrentXOffset" "Dabartinis X poslinkis:"
+		"Workshop_Preview_CurrentYOffset" "Dabartinis Y poslinkis:"
+		"Workshop_Preview_CurrentRotation" "Dabartinis pasukimas:"
+		"Workshop_Preview_X_Offset" "X poslinkis"
+		"Workshop_Preview_Y_Offset" "Y poslinkis"
+		"Workshop_Preview_Rotation" "Pasukimas"
+		"Workshop_Preview_Wear" "Nusidėvėjimas"
+		"Workshop_Preview_CurrentWear" "Dabartinis nusidėvėjimas:"
+		"Workshop_Preview_Submit" "Pateikti"
+		"Workshop_Preview_UVChart" "UV diagrama"
+		"Workshop_Preview_Pattern" "Modelis"
+		"Workshop_Preview_Guide" "Vadovas"
+		"Workshop_Preview_Resources" "Ištekliai"
+		"Workshop_Preview_FAQ" "DUK"
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
