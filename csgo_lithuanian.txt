@@ -183,6 +183,17 @@
 		"Workshop_Preview_Resources" "Ištekliai"
 		"Workshop_Preview_FAQ" "DUK"
 		
+		"Workshop_Preview_Import" "Importuoti TGA"
+		"Workshop_Preview_Import_Success_Title" "Importavimas sėkmingas"
+		"Workshop_Preview_Import_Success" "VTF failas sukurtas šaltinio failų kataloge."
+		"Workshop_Preview_Import_Error_Title" "Importavimas nepavyko"
+		"Workshop_Preview_Import_Error_Memory" "Nepavyko paskirstyti pakankamai atminties konvertavimui. Vaizdo failas galimai sugadintas."
+		"Workshop_Preview_Import_Error_Reading_Image" "Klaida skaitant šaltinio nuotrauką. Nuotraukos failas galimai yra sugadintas arba netinkamai suformuotas."
+		"Workshop_Preview_Import_Error_Image_File_Corrupt" "Nuotraukos failas yra sugadintas."
+		"Workshop_Preview_Import_Error_TGA_Format_Not_Supported" "Šio failo TGA formatas nepalaikomas.  Palaikomi šie TGA formatai: 24 bitų RGB ir 32 bitų RGBA."
+		"Workshop_Preview_Import_Error_Writing_Temp_Output" "Klaida kuriant laikinąjį failą."
+		"Workshop_Preview_Import_Error_Unexpected" "Įvyko netikėta klaida."
+		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
