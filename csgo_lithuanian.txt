@@ -215,6 +215,36 @@
 		"GameUI_On"						"Įjungta"
 		"GameUI_Off"					"Išjungta"
 		
+		"GameUI_Clock_Format"			"Kalendoriaus laiko formatas"
+		"GameUI_Clock_12hr"				"12 valandų"
+		"GameUI_Clock_24hr"				"24 valandų"
+		
+// GAMEUI_ENGLISH.txt
+// ---------------------------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------------------------
+// CHAT_ENGLISH.txt
+
+		"chat_filterbutton"	"Filtrai"
+		"filter_joinleave"	"Prisijungia/atsijungia"
+		"filter_namechange"	"Vardų pasikeitimai"
+		"filter_publicchat"	"Viešas pokalbis"
+		"filter_servermsg"	"Serverio žinutės"
+
+		"filter_teamchange"	"KOmandos pasikeitimai"
+		"filter_achievement"	"Pranešimai apie pasiekimus"
+		"chat_say"			"Sakyti  :"
+		"chat_say_team"		"Sakyti  (KOMANDOJE) :"
+
+// CHAT_ENGLISH.txt
+// ---------------------------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------------------------
+// vgui_english.txt
+
+	"Console_Title"		"Konsolė"
+	"Console_Submit"	"Pateikti"
+		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
