@@ -241,14 +241,66 @@
 
 // ---------------------------------------------------------------------------------------------
 // vgui_english.txt
+
 	//742
 	"Console_Title"		"Konsolė"
 	"Console_Submit"	"Pateikti"
+	
+		"CSGO_Tournament_Event_Name_20"			"IEM Rio 2022 CS:GO čempionatas"
+		"CSGO_Tournament_Event_NameShort_20"	"IEM Rio 2022"
+		"CSGO_Tournament_Event_Location_20"		"Rio 2022"
+		"CSGO_Tournament_Event_Name_21"			"BLAST.tv Paris 2023 CS:GO čempionatas"
+		"CSGO_Tournament_Event_NameShort_21"	"BLAST.tv Paris 2023"
+		"CSGO_Tournament_Event_Location_21"		"Paryžius 2023"
+	
+	
+		//4675
+		"Place_Name_1st"		"Čempionai"
+		"Place_Name_2nd"		"Didysis finalininkas"
+		"Place_Name_3rd-4th"	"PusfinalininkaI"
+		"Place_Name_5th-8th"	"KetvirtfinalininkaI"
+		"Place_Name_9th-12th"	"9-os – 12-os vietos"
+		"Place_Name_13th-16th"	"13-os – 16-os vietos"
+		
+		"Place_Name_9th-11th"	"9-os – 11-os vietos"
+		"Place_Name_12th-14th"	"12-os – 14-os vietosh"
+		"Place_Name_15th-16th"	"15-os – 16-os vietos"
+		"Place_Name_17th"		"17-ti"
+		"Place_Name_18th"		"18-ti"
+		"Place_Name_19th-21st"	"19-os – 21-os vietos"
+		"Place_Name_22nd-24th"	"22-os – 24-os vietos"
+
+		"Place_Name_09"		"9-ti"
+		"Place_Name_10"		"10-ti"
+		"Place_Name_11"		"11-ti"
+		"Place_Name_12"		"12-ti"
+		"Place_Name_13"		"13-ti"
+		"Place_Name_14"		"14-ti"
+		"Place_Name_15"		"15-ti"
+		"Place_Name_16"		"16-ti"
+		"Place_Name_17"		"17-ti"
+		"Place_Name_18"		"18-ti"
+		"Place_Name_19"		"19-ti"
+		"Place_Name_20"		"20-ti"
+		"Place_Name_21"		"21-i"
+		"Place_Name_22"		"22-i"
+		"Place_Name_23"		"23-ti"
+		"Place_Name_24"		"24-ti"
+		
+		// SET DESCRIPTIONS
+
+		
+		"CSGO_set_dust"							"Kolekcija „Dust“"
+		"CSGO_set_aztec"						"Kolekcija „Aztec“"
+		"CSGO_set_vertigo"						"Kolekcija „Vertigo“"
+		"CSGO_set_inferno"						"Kolekcija „Inferno“"
+	
 	
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//Main Menu : Watch Panel
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+		//29053
 		"CSGO_Watch_RoundData_Name"      	"%s1 raundo našumas"
 		"CSGO_Watch_Cat_YourMatches" "Jūsų rungtynės"
 		"CSGO_Watch_Cat_LiveMatches" "Tiesiogia"
