@@ -257,8 +257,8 @@
 		//4675
 		"Place_Name_1st"		"Čempionai"
 		"Place_Name_2nd"		"Didysis finalininkas"
-		"Place_Name_3rd-4th"	"PusfinalininkaI"
-		"Place_Name_5th-8th"	"KetvirtfinalininkaI"
+		"Place_Name_3rd-4th"	"Pusfinalininkas"
+		"Place_Name_5th-8th"	"Ketvirtfinalininkas"
 		"Place_Name_9th-12th"	"9-os – 12-os vietos"
 		"Place_Name_13th-16th"	"13-os – 16-os vietos"
 		
@@ -287,13 +287,40 @@
 		"Place_Name_23"		"23-ti"
 		"Place_Name_24"		"24-ti"
 		
+		// Round Win Panel
+		
+		//1700
+		"CTs_win"						"Anti-Teroristai laimėjo"
+		"Ts_win"						"Teroristai laimėjo"
+
+		"winpanel_t_win"				"Teroristai laimėjo"
+		"winpanel_ct_win"				"Anti-Teroristai laimėjo"
+		"winpanel_draw"					"Lygiosios"
+
+		"winpanel_mvp_award"			"MVP: %s1"
+		"winpanel_mvp_award_kills"		"MVP: %s1 "
+		"winpanel_mvp_award_bombplant"	"MVP: %s1 už daugiausiai eliminavimų"
+		"winpanel_mvp_award_bombdefuse"	"MVP: %s1 už bombos nukenksminimą"
+		"winpanel_mvp_award_rescue"		"MVP: %s1 už įkaito išlaisvinimą"
+		"winpanel_mvp_award_score"		"MVP: %s1 už aukščiausią įvertinimą"
+		"winpanel_mvp_award_gungame"	"Ginklavimosi varžybų nugalėtojas: %s1"
+		"winpanel_mvp_survivor"			"%s1 yra nugalėtojas ir vienintelis išgyvenęs žmogus!"
+		
+		
 		// SET DESCRIPTIONS
 
-		
+		//4710
 		"CSGO_set_dust"							"Kolekcija „Dust“"
 		"CSGO_set_aztec"						"Kolekcija „Aztec“"
 		"CSGO_set_vertigo"						"Kolekcija „Vertigo“"
 		"CSGO_set_inferno"						"Kolekcija „Inferno“"
+		
+		
+		//27984
+		"SFUI_Mapgroup_active" "Aktyviosios tarnybos grupė"
+		"SFUI_Mapgroup_reserves" "Atsarginių grupė"
+		"SFUI_Mapgroup_casualdelta" "Nukenksmintojų grupė Delta"
+		"SFUI_Mapgroup_casualsigma" "Nukenksmintojų grupė Sigma"
 	
 	
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -352,6 +379,30 @@
 		"party_lobby_connected"								"Prisijungta prie komandos. Paspauskite, kad atidarytumėte pokalbį"
 	
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	//Play menu
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		
+		//37520
+		"prime_only_label"									"Tik pirminiai žaidėjai"
+		"prime_priority_label"								"Pirminiai ir nepirminiai žaidėjai"
+		"prime_ranked"										"Reitinguojami žaidimai"
+		"prime_unranked"									"Nereitinguojami žaidimai"
+		"prime_not_enrolled_label"							"Nepirminiai žaidėjai"
+		"prime_disabled_label"								"Pirminis išjungtas"
+		"matchmaking_expected_wait_time"					"Laukimo laikas {s:time}"
+		"no_steam_group_link"								"Jūs nesate jokios Steam grupės narys."
+		
+		"permissions_public"								"Draugai gali prisijungti"
+		"permissions_private"								"Draugams reikalingi pakvietimai"
+		"permissions_group"									"Steam grupė ir draugai"
+		
+		// Accept Match Popup
+	
+		//37578
+		"match_ready_accept"								"PATVIRTINTI"
+	
+	
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	//Anti-Addiction
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		
@@ -360,6 +411,7 @@
 	//Tooltips
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		
+		//37729
 		"tooltip_navbar_home"								"Prietaisų skydelis"
 		"tooltip_navbar_play"								"Žaisti CS:GO"
 		"tooltip_navbar_settings"							"Nustatymų meniu"
@@ -422,7 +474,6 @@
 		"tooltip_suggested_lobby"							"Šis komanda atvira tik „Steam“ grupės nariams."
 		
 		//37800
-		
 		"tooltip_invite"				"Pakvieskite draugą žaisti"
 		"tooltip_Join"					"Prisijunkite prie draugo"
 		"tooltip_watch" "Stebėti vykstantį žaidimą"
@@ -448,30 +499,15 @@
 		"tooltip_friend_invited_you" "Kvietimas iš <b>{s:friendname}</b>"
 		"tooltip_lobby_leader_name" "{s:friendname}"
 		
-	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-	//Play menu
-	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-		
-		"prime_only_label"									"Tik pirminiai žaidėjai"
-		"prime_priority_label"								"Pirminiai ir nepirminiai žaidėjai"
-		"prime_ranked"										"Reitinguojami žaidimai"
-		"prime_unranked"									"Nereitinguojami žaidimai"
-		"prime_not_enrolled_label"							"Nepirminiai žaidėjai"
-		"prime_disabled_label"								"Pirminis išjungtas"
-		"matchmaking_expected_wait_time"					"Laukimo laikas {s:time}"
-		"no_steam_group_link"								"Jūs nesate jokios Steam grupės narys."
-		
-		"permissions_public"								"Draugai gali prisijungti"
-		"permissions_private"								"Draugams reikalingi pakvietimai"
-		"permissions_group"									"Steam grupė ir draugai"
+	
 
-	// Accept Match Popup
-		"match_ready_accept"								"PATVIRTINTI"
+	
 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	//Buy Menu
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+		//32346
 		"BuyMenu_Pistols"									"PISTOLETAI"
 		"BuyMenu_HeavyWeapons"								"SUNKIEJI"
 		"BuyMenu_Rifles"									"GRAIŽTVINIAI GINKLAI"
@@ -490,7 +526,7 @@
 		"BuyMenu_AlreadyCarrying"							"Yra dabartiniame inventoriuje."
 		"BuyMenu_Back"										"[{v:csgo_bind:bind_cancelselect}] Atgal"
 
-
+		//36521
 		"CSGO_Home"											"PAGRINDINIS"
 		"CSGO_MainMenu_Play"								"ŽAISTI"
 		"CSGO_MainMenu_Inventory"							"INVENTORIUS"
@@ -512,7 +548,7 @@
 		"CSGO_MainMenu_AchievementsButton"					"PASIEKIMAI"
 		"CSGO_MainMenu_StatsButton"							"Statistika"
 		"CSGO_MainMenu_ControlsButton"						"Valdymo pultelis"
-		"CSGO_MainMenu_MouseKeyboardButton"					"Klaviatūra ir Pelė"
+		"CSGO_MainMenu_MouseKeyboardButton"					"Klaviatūra ir pelė"
 		"CSGO_MainMenu_SettingsButton"						"Žaidimo nustatymai"
 		"CSGO_MainMenu_VideoSettings"						"Vaizdo nustatymai"
 		"CSGO_MainMenu_AudioSettings"						"Garso nustatymai"
