@@ -241,14 +241,49 @@
 
 // ---------------------------------------------------------------------------------------------
 // vgui_english.txt
-
+	//742
 	"Console_Title"		"Konsolė"
 	"Console_Submit"	"Pateikti"
+	
+		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		//Main Menu : Watch Panel
+		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+		"CSGO_Watch_RoundData_Name"      	"%s1 raundo našumas"
+		"CSGO_Watch_Cat_YourMatches" "Jūsų rungtynės"
+		"CSGO_Watch_Cat_LiveMatches" "Tiesiogia"
+		"CSGO_Watch_Cat_Downloaded" "Parsisiųsta"
+		"CSGO_Watch_Cat_Streams" "Transliacijos"
+		"CSGO_Watch_Cat_Events" "Renginiai"
+		"CSGO_Watch_Cat_Majors" ""
+		"CSGO_Watch_Cat_Tournament_0" "Majors"
+		"CSGO_Watch_Cat_Tournament_1" "DreamHack 2013"
+		"CSGO_Watch_Cat_Tournament_2" "Valve Test"
+		"CSGO_Watch_Cat_Tournament_3" "Katovicai 2014"
+		"CSGO_Watch_Cat_Tournament_4" "Kelnas 2014"
+		"CSGO_Watch_Cat_Tournament_5" "DreamHack 2014"
+		"CSGO_Watch_Cat_Tournament_6" "Katovicai 2015"
+		"CSGO_Watch_Cat_Tournament_7" "Kelnas 2015"
+		"CSGO_Watch_Cat_Tournament_8" "Klužas-Napoka 2015"
+		"CSGO_Watch_Cat_Tournament_9" "Kolumbas  2016"
+		"CSGO_Watch_Cat_Tournament_10" "Kelnas 2016"
+		"CSGO_Watch_Cat_Tournament_11" "Atlanta 2017"
+		"CSGO_Watch_Cat_Tournament_12" "Krokuva 2017"
+		"CSGO_Watch_Cat_Tournament_13" "Bostonas 2018"
+		"CSGO_Watch_Cat_Tournament_14" "Londonas 2018"
+		"CSGO_Watch_Cat_Tournament_15" "Katovicai 2019"
+		"CSGO_Watch_Cat_Tournament_16" "Berlinas 2019"
+		"CSGO_Watch_Cat_Tournament_18" "Stokholmas 2021"
+		"CSGO_Watch_Cat_Tournament_19" "Antverpenas 2022"
+		"CSGO_Watch_Cat_Tournament_20" "Rio 2022"
+		"CSGO_Watch_Cat_Tournament_21" "Paryžius 2023"
+	
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Party 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+		//37700
 		"party_found_match"									"Rastas žaidimas"
 		"party_play"										"ŽAISTI CS:GO"
 		"party_play_client"									"ŽAIDIMO NUSTATYMAI"
@@ -333,6 +368,8 @@
 		"tooltip_xp_locked"									"Norint uždirbti XP, reikalingas Pirminis statusas. Įsigykite Pirminio statuso atnaujinimą, kad atlaisvintumėte savo rangą."
 		"tooltip_join_public_lobby"							"Prisijunkite prie viešos komandos"
 		"tooltip_suggested_lobby"							"Šis komanda atvira tik „Steam“ grupės nariams."
+		
+		//37800
 		
 		"tooltip_invite"				"Pakvieskite draugą žaisti"
 		"tooltip_Join"					"Prisijunkite prie draugo"
