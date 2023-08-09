@@ -252,7 +252,113 @@
 		"CSGO_Tournament_Event_Name_21"			"BLAST.tv Paris 2023 CS:GO čempionatas"
 		"CSGO_Tournament_Event_NameShort_21"	"BLAST.tv Paris 2023"
 		"CSGO_Tournament_Event_Location_21"		"Paryžius 2023"
+		
+		// Titles.txt str	
+		
+		//791
+		"Cstrike_TitlesTXT_Accept_All_Messages"					"Dabar priimamos visos tekstinės žinutės"
+		"Cstrike_TitlesTXT_Accept_Radio"						"Dabar priimamos radijo žinutės"
+		"Cstrike_TitlesTXT_Affirmative"							"Teigiama."
+		"Cstrike_TitlesTXT_Alias_Not_Avail"						"The \"%s1\"
+		is not available for your team to buy."
+		"Cstrike_TitlesTXT_All_Hostages_Rescued"				"Įkaitas buvo išgelbėtas!"
+		"Cstrike_TitlesTXT_All_Teams_Full"						"Visos komandos yra pilnos!"
+		"Cstrike_TitlesTXT_All_VIP_Slots_Full"					"Visos 5-ios VIP vietos užimtos.
+		Please try again later."
+		"Cstrike_TitlesTXT_Already_Have_Kevlar"					"Jūs jau turite Kevlaro apsaugą!"
+		"Cstrike_TitlesTXT_Already_Have_Kevlar_Helmet"			"Jūs jau turite kevlaro apsaugą ir šalmą!"
+		"Cstrike_TitlesTXT_Already_Have_Kevlar_Bought_Helmet"	"Jūs jau turite Kevlaro šarvus. Šalmas nupirktas."
+		"Cstrike_TitlesTXT_Already_Have_Helmet_Bought_Kevlar"	"Jūs jau turite šalmą. Sutvarkyta Kevlar apsauga."
+		"Cstrike_TitlesTXT_Already_Have_One"					"Jūs jau turite vieną!"
+		"Cstrike_TitlesTXT_Auto_Select"							"Automatinis pasirinkimas"
+		"Cstrike_TitlesTXT_Auto_Team_Balance_Next_Round"		"*** Automatinis komandos balansavimas kitą raundą ***"
+		"Cstrike_TitlesTXT_Player_Balanced"						"Jūs buvote perkeltas į kitą komandą dėl žaidimo balanso."
+		"Cstrike_TitlesTXT_Teams_Balanced"						"Komandos buvo subalansuotos."
+		"Cstrike_TitlesTXT_BOMB"								"SPROGMUO"
+		"Cstrike_TitlesTXT_Banned_For_Killing_Teammates"		"Jūs buvote išmestas ir užblokuotas serverio už nužudymą per daug komandos narių."
+		"Cstrike_TitlesTXT_Bomb_Defusal_Kit"					"Sprogmens Nukenksminimo Įranga"
+		"Cstrike_TitlesTXT_Bomb_Defused"						"Sprogmuo buvo nukenksmintas."
+		"Cstrike_TitlesTXT_Bomb_Planted"						"Sprogmuo buvo užtaisytas.\n%s1 sekundžių iki detonacijos."
+		"Cstrike_TitlesTXT_Hostage_Being_Taken"					"Įkaitas yra paimamas."
+		"Cstrike_TitlesTXT_C4_Activated_At_Bomb_Spot"			"Sprogmuo turi būti užtaisytas tam skirtoje vietoje"
+		"Cstrike_TitlesTXT_C4_Arming_Cancelled"					"Sprogmuo įjungimas atšauktas.
+		Sprogmuo gali būti užtaisytas tik sprogmens aikštelėje."
+		"Cstrike_TitlesTXT_C4_Defuse_Must_Be_On_Ground"			"Jūs privalote būti ant žemės, kad nukenksminti sprogmenį"
+		"Cstrike_TitlesTXT_C4_Plant_At_Bomb_Spot"				"Sprogmuo turi būti užtaisytas sprogmens aikštelėje"
+		"Cstrike_TitlesTXT_C4_Plant_Must_Be_On_Ground"			"Jūs turite būti ant žemės
+		kad pasodinti sprogmenį"
+		"Cstrike_TitlesTXT_CAM_OPTIONS"							"Kameros Nustatymai"
+		"Cstrike_TitlesTXT_CLASS"								"Klasė"
+		"Cstrike_TitlesTXT_CT_Forces"							"CT Pajėgos"
+		"Cstrike_TitlesTXT_CT_cant_buy"							"CT neleidžiama pirkti
+		nieko ant šio žemėlapio."
+		"Cstrike_TitlesTXT_CTs_Full"							"CT komanda yra pilna"
+		"Cstrike_TitlesTXT_CTs_PreventEscape"					"CT neleido didžiajai komandos daliai
+		teroristų pabėgti."
+		"Cstrike_TitlesTXT_CTs_Win"								"Anti-Teroristai laimi!"
+		"Cstrike_TitlesTXT_Cannot_Be_Spectator"					"Jūs negalite būti žiūrovas."
+		"Cstrike_TitlesTXT_Cannot_Buy_This"						"Jūs negalite pirkti šio daikto."
+		"Cstrike_TitlesTXT_Cannot_Carry_Anymore"				"Jūs negalite turėti daugiau nei vieną šio daikto."
+		"Cstrike_TitlesTXT_Cannot_Switch_From_VIP"				"Jūs esate VIP.
+		Jūs negalite keistis rolėmis dabar."
+		"Cstrike_TitlesTXT_Cannot_Vote_Map"						"You cannot vote within 3 minutes of a new map."
+		"Cstrike_TitlesTXT_Cannot_Vote_Need_More_People"		"You can't vote for a map by yourself."
+		"Cstrike_TitlesTXT_Cannot_Vote_With_Less_Than_Three"	"You can't vote with less than three people on your team."
+		"Cstrike_TitlesTXT_Cant_buy"							"Praėjo %s1 sekundės.
+		Nebegalite nieko pirkti."
+		"Cstrike_TitlesTXT_Class_descr_not_avail"				"Klasės aprašas neprieinamas."
+		"Cstrike_TitlesTXT_Command_Not_Available"				"Ši komanda jums neprieinama šiuo metu."
+		"Cstrike_TitlesTXT_Cover_me"							"Pridenkite mane!"
+		"Cstrike_TitlesTXT_Regroup_team"						"Persigrupuojame, komanda."
+		"Cstrike_TitlesTXT_You_take_the_point"					"Paimkite objektą."
+		"Cstrike_TitlesTXT_Taking_fire"							"Esu apšaudomas... Reikia pagalbos!"
+		"Cstrike_TitlesTXT_Team_fall_back"						"Komanda, atsitraukiame!"
+		"Cstrike_TitlesTXT_Stick_together_team"					"Likite kartu, komanda."
+		"Cstrike_TitlesTXT_Storm_the_front"						"Puolame iš priekio!"
+		"Cstrike_TitlesTXT_Cheer"								"džiūgauti!"
+		"Cstrike_TitlesTXT_Thanks"								"Ačiū!"
+		"Cstrike_TitlesTXT_Compliment"							"Geras!"
+		"Cstrike_TitlesTXT_Got_Hostages"						"Turiu įkaitą."
+		"Cstrike_TitlesTXT_Defusing_Bomb"						"Aš nukenksminsiu sprogmenį."
+		"Cstrike_TitlesTXT_Planting_Bomb"						"Aš sodinu sprogmenį."
+		"Cstrike_TitlesTXT_Report_in_team"						"Komanda, prasineškite."
+		"Cstrike_TitlesTXT_Roger_that"							"Supratau."
+		"Cstrike_TitlesTXT_Need_backup"							"Reikia pagalbos."
+		"Cstrike_TitlesTXT_Reporting_in"						"Prasinešu."
+		"Cstrike_TitlesTXT_Negative"							"Neigiama."
+		"Cstrike_TitlesTXT_Cstrike_Already_Own_Weapon"			"Jums jau priklauso šis ginklas."
+		"Cstrike_TitlesTXT_Sector_clear"						"sektorius tuščias."
+		"Cstrike_TitlesTXT_DEAD"								"MIRĘS"
+		"Cstrike_TitlesTXT_DEATHS"								"MIRTYS"
+		"Cstrike_TitlesTXT_Defusal_Kit"							"Sprogmens nukenksminimo Įrankių rinkinys"
+		"Cstrike_TitlesTXT_Defusing_Bomb_With_Defuse_Kit"		"Nukenksminamas sprogmuo SU įrankių rinkiniu."
+		"Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit"	"Nukenksminamas sprogmuo BE įrankių rinkinio."
+		"Cstrike_TitlesTXT_Bomb_Already_Being_Defused"			"Sprogmuo jau yra nukenksminamas."
+		
+		
+		//1330
+		"Cstrike_Chat_CT_Dead"				"*MIRĘS*(Anti-Teroristai) %s1 :  %s2"
+		"Cstrike_Chat_T_Dead"				"*MIRĘS*(Teroristai) %s1 :  %s2"
+		"Cstrike_Name_Change"				"* %s1 pasikeitė vardą į %s2"
 	
+		// Round Win Panel
+		
+		//1700
+		"CTs_win"						"Anti-Teroristai laimėjo"
+		"Ts_win"						"Teroristai laimėjo"
+
+		"winpanel_t_win"				"Teroristai laimėjo"
+		"winpanel_ct_win"				"Anti-Teroristai laimėjo"
+		"winpanel_draw"					"Lygiosios"
+
+		"winpanel_mvp_award"			"MVP: %s1"
+		"winpanel_mvp_award_kills"		"MVP: %s1 "
+		"winpanel_mvp_award_bombplant"	"MVP: %s1 už daugiausiai eliminavimų"
+		"winpanel_mvp_award_bombdefuse"	"MVP: %s1 už bombos nukenksminimą"
+		"winpanel_mvp_award_rescue"		"MVP: %s1 už įkaito išlaisvinimą"
+		"winpanel_mvp_award_score"		"MVP: %s1 už aukščiausią įvertinimą"
+		"winpanel_mvp_award_gungame"	"Ginklavimosi varžybų nugalėtojas: %s1"
+		"winpanel_mvp_survivor"			"%s1 yra nugalėtojas ir vienintelis išgyvenęs žmogus!"
 	
 		//4675
 		"Place_Name_1st"		"Čempionai"
@@ -286,26 +392,6 @@
 		"Place_Name_22"		"22-i"
 		"Place_Name_23"		"23-ti"
 		"Place_Name_24"		"24-ti"
-		
-		// Round Win Panel
-		
-		//1700
-		"CTs_win"						"Anti-Teroristai laimėjo"
-		"Ts_win"						"Teroristai laimėjo"
-
-		"winpanel_t_win"				"Teroristai laimėjo"
-		"winpanel_ct_win"				"Anti-Teroristai laimėjo"
-		"winpanel_draw"					"Lygiosios"
-
-		"winpanel_mvp_award"			"MVP: %s1"
-		"winpanel_mvp_award_kills"		"MVP: %s1 "
-		"winpanel_mvp_award_bombplant"	"MVP: %s1 už daugiausiai eliminavimų"
-		"winpanel_mvp_award_bombdefuse"	"MVP: %s1 už bombos nukenksminimą"
-		"winpanel_mvp_award_rescue"		"MVP: %s1 už įkaito išlaisvinimą"
-		"winpanel_mvp_award_score"		"MVP: %s1 už aukščiausią įvertinimą"
-		"winpanel_mvp_award_gungame"	"Ginklavimosi varžybų nugalėtojas: %s1"
-		"winpanel_mvp_survivor"			"%s1 yra nugalėtojas ir vienintelis išgyvenęs žmogus!"
-		
 		
 		// SET DESCRIPTIONS
 
@@ -356,6 +442,29 @@
 		"CSGO_Watch_Cat_Tournament_19" "Antverpenas 2022"
 		"CSGO_Watch_Cat_Tournament_20" "Rio 2022"
 		"CSGO_Watch_Cat_Tournament_21" "Paryžius 2023"
+		
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	//Buy Menu
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+		//32346
+		"BuyMenu_Pistols"									"PISTOLETAI"
+		"BuyMenu_HeavyWeapons"								"SUNKIEJI"
+		"BuyMenu_Rifles"									"GRAIŽTVINIAI GINKLAI"
+		"BuyMenu_Equipment"									"ĮRANGA"
+		"BuyMenu_Loadouts"									"IŠSIDĖSTYMAS"
+		"BuyMenu_SMGs"										"SMG"
+		"BuyMenu_CQB"										"CQB"
+		"BuyMenu_Grenades"									"GRANATOS"
+		"BuyMenu_Flair"										"EKSPONATAI"
+		"BuyMenu_Melee"										"ARTIMA KOVA"
+		"BuyMenu_TimerText"									"Liko pirkimo laiko"
+		"BuyMenu_Header"									"PIRKIMO MENIU"
+		"BuyMenu_WeaponClass"								"GINKLŲ PASIRINKIMO MENIU"
+		"BuyMenu_CanOnlyCarryXGrenades"						"Jūs galite nešiotis tik %s1 granatas"
+		"BuyMenu_MaxItemsOfType"							"Jūs galite nešiotis tik %s1 šio tipo daiktą"
+		"BuyMenu_AlreadyCarrying"							"Yra dabartiniame inventoriuje."
+		"BuyMenu_Back"										"[{v:csgo_bind:bind_cancelselect}] Atgal"
 	
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -498,33 +607,6 @@
 		"tooltip_discard_invite" "Atmesti šį kvietimą"
 		"tooltip_friend_invited_you" "Kvietimas iš <b>{s:friendname}</b>"
 		"tooltip_lobby_leader_name" "{s:friendname}"
-		
-	
-
-	
-
-	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-	//Buy Menu
-	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-		//32346
-		"BuyMenu_Pistols"									"PISTOLETAI"
-		"BuyMenu_HeavyWeapons"								"SUNKIEJI"
-		"BuyMenu_Rifles"									"GRAIŽTVINIAI GINKLAI"
-		"BuyMenu_Equipment"									"ĮRANGA"
-		"BuyMenu_Loadouts"									"IŠSIDĖSTYMAS"
-		"BuyMenu_SMGs"										"SMG"
-		"BuyMenu_CQB"										"CQB"
-		"BuyMenu_Grenades"									"GRANATOS"
-		"BuyMenu_Flair"										"EKSPONATAI"
-		"BuyMenu_Melee"										"ARTIMA KOVA"
-		"BuyMenu_TimerText"									"Liko pirkimo laiko"
-		"BuyMenu_Header"									"PIRKIMO MENIU"
-		"BuyMenu_WeaponClass"								"GINKLŲ PASIRINKIMO MENIU"
-		"BuyMenu_CanOnlyCarryXGrenades"						"Jūs galite nešiotis tik %s1 granatas"
-		"BuyMenu_MaxItemsOfType"							"Jūs galite nešiotis tik %s1 šio tipo daiktą"
-		"BuyMenu_AlreadyCarrying"							"Yra dabartiniame inventoriuje."
-		"BuyMenu_Back"										"[{v:csgo_bind:bind_cancelselect}] Atgal"
 
 		//36521
 		"CSGO_Home"											"PAGRINDINIS"
@@ -592,6 +674,20 @@
 		"store_btn_filter_coupons_not_found"				"Nepavyko rasti kuponų su šiuo pavadinimu"
 		"store_btn_filter_coupons"							"Ieškoti Kuponų"
 		"store_btn_filter_coupons_browse"					"Naršyti Kuponus"
+		
+		//////////////////////////////////////////////////////////////////
+		//
+		//	FREEZE PANEL
+		//
+		///////////////////////////////////////////////////////////
+		
+		"Panorama_SurvivalEndOfMatch_ShowStats"			"[{v:csgo_bind:bind_jump}] rodyti mačo statistiką"
+		"Panorama_Freeze_Cancel_Start_Replay"			"[{v:csgo_bind:bind_jump}] praleisti"
+		"Panorama_Freeze_Cancel_Replay" 				"[{v:csgo_bind:bind_jump}] atšaukti peržiūrą"
+
+		"Panorama_FreezePanel_Killer1_YourWeapon"			"nužudė jus su jūsų {s:h:weapon_name}"
+		"Panorama_FreezePanel_Killer1_KillerWeapon"			"nužudė jus su jų {s:h:weapon_name}"
+
 
 	//Player Profile
 		"skillgroup_0"										"Įgūdžių grupė paslėpta"
@@ -801,85 +897,9 @@
 
 		"Cstrike_Already_Own_Weapon"							"Jūs jau turite ginklą."
 		"Cstrike_Not_Available"									"Negalima šito pasirinkimo pirkti šiame žemėlapyje."
-	// Titles.txt str	
-		"Cstrike_TitlesTXT_Accept_All_Messages"					"Dabar priimamos visos tekstinės žinutės"
-		"Cstrike_TitlesTXT_Accept_Radio"						"Dabar priimamos radijo žinutės"
-		"Cstrike_TitlesTXT_Affirmative"							"Teigiama."
-		"Cstrike_TitlesTXT_Alias_Not_Avail"						"The \"%s1\"
-		is not available for your team to buy."
-		"Cstrike_TitlesTXT_All_Hostages_Rescued"				"Įkaitas buvo išgelbėtas!"
-		"Cstrike_TitlesTXT_All_Teams_Full"						"Visos komandos yra pilnos!"
-		"Cstrike_TitlesTXT_All_VIP_Slots_Full"					"Visos 5-ios VIP vietos užimtos.
-		Please try again later."
-		"Cstrike_TitlesTXT_Already_Have_Kevlar"					"Jūs jau turite Kevlaro apsaugą!"
-		"Cstrike_TitlesTXT_Already_Have_Kevlar_Helmet"			"Jūs jau turite kevlaro apsaugą ir šalmą!"
-		"Cstrike_TitlesTXT_Already_Have_Kevlar_Bought_Helmet"	"Jūs jau turite Kevlaro šarvus. Šalmas nupirktas."
-		"Cstrike_TitlesTXT_Already_Have_Helmet_Bought_Kevlar"	"Jūs jau turite šalmą. Sutvarkyta Kevlar apsauga."
-		"Cstrike_TitlesTXT_Already_Have_One"					"Jūs jau turite vieną!"
-		"Cstrike_TitlesTXT_Auto_Select"							"Automatinis pasirinkimas"
-		"Cstrike_TitlesTXT_Auto_Team_Balance_Next_Round"		"*** Automatinis komandos balansavimas kitą raundą ***"
-		"Cstrike_TitlesTXT_Player_Balanced"						"Jūs buvote perkeltas į kitą komandą dėl žaidimo balanso."
-		"Cstrike_TitlesTXT_Teams_Balanced"						"Komandos buvo subalansuotos."
-		"Cstrike_TitlesTXT_BOMB"								"SPROGMUO"
-		"Cstrike_TitlesTXT_Banned_For_Killing_Teammates"		"Jūs buvote išmestas ir užblokuotas serverio už nužudymą per daug komandos narių."
-		"Cstrike_TitlesTXT_Bomb_Defusal_Kit"					"Sprogmens Nukenksminimo Įranga"
-		"Cstrike_TitlesTXT_Bomb_Defused"						"Sprogmuo buvo nukenksmintas."
-		"Cstrike_TitlesTXT_Bomb_Planted"						"Sprogmuo buvo užtaisytas.\n%s1 sekundžių iki detonacijos."
-		"Cstrike_TitlesTXT_Hostage_Being_Taken"					"Įkaitas yra paimamas."
-		"Cstrike_TitlesTXT_C4_Activated_At_Bomb_Spot"			"Sprogmuo turi būti užtaisytas tam skirtoje vietoje"
-		"Cstrike_TitlesTXT_C4_Arming_Cancelled"					"Sprogmuo įjungimas atšauktas.
-		Sprogmuo gali būti užtaisytas tik sprogmens aikštelėje."
-		"Cstrike_TitlesTXT_C4_Defuse_Must_Be_On_Ground"			"Jūs privalote būti ant žemės, kad nukenksminti sprogmenį"
-		"Cstrike_TitlesTXT_C4_Plant_At_Bomb_Spot"				"Sprogmuo turi būti užtaisytas sprogmens aikštelėje"
-		"Cstrike_TitlesTXT_C4_Plant_Must_Be_On_Ground"			"Jūs turite būti ant žemės
-		kad pasodinti sprogmenį"
-		"Cstrike_TitlesTXT_CAM_OPTIONS"							"Kameros Nustatymai"
-		"Cstrike_TitlesTXT_CLASS"								"Klasė"
-		"Cstrike_TitlesTXT_CT_Forces"							"CT Pajėgos"
-		"Cstrike_TitlesTXT_CT_cant_buy"							"CT neleidžiama pirkti
-		nieko ant šio žemėlapio."
-		"Cstrike_TitlesTXT_CTs_Full"							"CT komanda yra pilna"
-		"Cstrike_TitlesTXT_CTs_PreventEscape"					"CT neleido didžiajai komandos daliai
-		teroristų pabėgti."
-		"Cstrike_TitlesTXT_CTs_Win"								"Anti-Teroristai laimi!"
-		"Cstrike_TitlesTXT_Cannot_Be_Spectator"					"Jūs negalite būti žiūrovas."
-		"Cstrike_TitlesTXT_Cannot_Buy_This"						"Jūs negalite pirkti šio daikto."
-		"Cstrike_TitlesTXT_Cannot_Carry_Anymore"				"Jūs negalite turėti daugiau nei vieną šio daikto."
-		"Cstrike_TitlesTXT_Cannot_Switch_From_VIP"				"Jūs esate VIP.
-		Jūs negalite keistis rolėmis dabar."
-		"Cstrike_TitlesTXT_Cannot_Vote_Map"						"You cannot vote within 3 minutes of a new map."
-		"Cstrike_TitlesTXT_Cannot_Vote_Need_More_People"		"You can't vote for a map by yourself."
-		"Cstrike_TitlesTXT_Cannot_Vote_With_Less_Than_Three"	"You can't vote with less than three people on your team."
-		"Cstrike_TitlesTXT_Cant_buy"							"Praėjo %s1 sekundės.
-		Nebegalite nieko pirkti."
-		"Cstrike_TitlesTXT_Class_descr_not_avail"				"Klasės aprašas neprieinamas."
-		"Cstrike_TitlesTXT_Command_Not_Available"				"Ši komanda jums neprieinama šiuo metu."
-		"Cstrike_TitlesTXT_Cover_me"							"Pridenkite mane!"
-		"Cstrike_TitlesTXT_Regroup_team"						"Persigrupuojame, komanda."
-		"Cstrike_TitlesTXT_You_take_the_point"					"Paimkite objektą."
-		"Cstrike_TitlesTXT_Taking_fire"							"Esu apšaudomas... Reikia pagalbos!"
-		"Cstrike_TitlesTXT_Team_fall_back"						"Komanda, atsitraukiame!"
-		"Cstrike_TitlesTXT_Stick_together_team"					"Likite kartu, komanda."
-		"Cstrike_TitlesTXT_Storm_the_front"						"Puolame iš priekio!"
-		"Cstrike_TitlesTXT_Cheer"								"džiūgauti!"
-		"Cstrike_TitlesTXT_Thanks"								"Ačiū!"
-		"Cstrike_TitlesTXT_Compliment"							"Geras!"
-		"Cstrike_TitlesTXT_Got_Hostages"						"Turiu įkaitą."
-		"Cstrike_TitlesTXT_Defusing_Bomb"						"Aš nukenksminsiu sprogmenį."
-		"Cstrike_TitlesTXT_Planting_Bomb"						"Aš sodinu sprogmenį."
-		"Cstrike_TitlesTXT_Report_in_team"						"Komanda, prasineškite."
-		"Cstrike_TitlesTXT_Roger_that"							"Supratau."
-		"Cstrike_TitlesTXT_Need_backup"							"Reikia pagalbos."
-		"Cstrike_TitlesTXT_Reporting_in"						"Prasinešu."
-		"Cstrike_TitlesTXT_Negative"							"Neigiama."
-		"Cstrike_TitlesTXT_Cstrike_Already_Own_Weapon"			"Jums jau priklauso šis ginklas."
-		"Cstrike_TitlesTXT_Sector_clear"						"sektorius tuščias."
-		"Cstrike_TitlesTXT_DEAD"								"MIRĘS"
-		"Cstrike_TitlesTXT_DEATHS"								"MIRTYS"
-		"Cstrike_TitlesTXT_Defusal_Kit"							"Sprogmens nukenksminimo Įrankių rinkinys"
-		"Cstrike_TitlesTXT_Defusing_Bomb_With_Defuse_Kit"		"Nukenksminamas sprogmuo SU įrankių rinkiniu."
-		"Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit"	"Nukenksminamas sprogmuo BE įrankių rinkinio."
-		"Cstrike_TitlesTXT_Bomb_Already_Being_Defused"			"Sprogmuo jau yra nukenksminamas."
+		
+		
+		
 		
 	// TARGET PLAYER (IN-GAME) 
 
