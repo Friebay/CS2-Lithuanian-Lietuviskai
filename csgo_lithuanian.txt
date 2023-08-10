@@ -246,6 +246,9 @@
 	"Console_Title"		"Konsolė"
 	"Console_Submit"	"Pateikti"
 	
+// vgui_english.txt
+// ---------------------------------------------------------------------------------------------
+	
 		"CSGO_Tournament_Event_Name_20"			"IEM Rio 2022 CS:GO čempionatas"
 		"CSGO_Tournament_Event_NameShort_20"	"IEM Rio 2022"
 		"CSGO_Tournament_Event_Location_20"		"Rio 2022"
@@ -335,6 +338,7 @@
 		"Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit"	"Nukenksminamas sprogmuo BE įrankių rinkinio."
 		"Cstrike_TitlesTXT_Bomb_Already_Being_Defused"			"Sprogmuo jau yra nukenksminamas."
 		
+		"Cstrike_TitlesTXT_Game_teammate_attack"							"%s1 užpuolė komandos narį."
 		
 		//1330
 		"Cstrike_Chat_CT_Dead"				"*MIRĘS*(Anti-Teroristai) %s1 :  %s2"
@@ -352,8 +356,8 @@
 		"winpanel_draw"					"Lygiosios"
 
 		"winpanel_mvp_award"			"MVP: %s1"
-		"winpanel_mvp_award_kills"		"MVP: %s1 "
-		"winpanel_mvp_award_bombplant"	"MVP: %s1 už daugiausiai eliminavimų"
+		"winpanel_mvp_award_kills"		"MVP: %s1 už daugiausiai eliminavimų"
+		"winpanel_mvp_award_bombplant"	"MVP: %s1 už bombos padėjimą"
 		"winpanel_mvp_award_bombdefuse"	"MVP: %s1 už bombos nukenksminimą"
 		"winpanel_mvp_award_rescue"		"MVP: %s1 už įkaito išlaisvinimą"
 		"winpanel_mvp_award_score"		"MVP: %s1 už aukščiausią įvertinimą"
@@ -401,6 +405,17 @@
 		"CSGO_set_vertigo"						"Kolekcija „Vertigo“"
 		"CSGO_set_inferno"						"Kolekcija „Inferno“"
 		
+		// nice map group names
+		
+		//27975
+		"SFUI_Mapgroup_bomb"		"Nukenksmintojų grupė"
+		"SFUI_Mapgroup_skirmish"	"Karo žaidimų grupė"
+		"SFUI_Mapgroup_hostage"		"Įkaitų grupė"
+		"SFUI_Mapgroup_armsrace"	"Ginklavimosi varžybų grupė"
+		"SFUI_Mapgroup_demolition"	"Griovimo grupė"
+		"SFUI_Mapgroup_allclassic"	"Klasikinė grupė"
+		"SFUI_Mapgroup_lowgravity"	"Žemos gravitacijos grupė"
+		"SFUI_Mapgroup_dm_other"	"Visi kiti žemėlapiai"
 		
 		//27984
 		"SFUI_Mapgroup_active" "Aktyviosios tarnybos grupė"
@@ -446,6 +461,20 @@
 		"CSGO_Watch_Cat_Tournament_20" "Rio 2022"
 		"CSGO_Watch_Cat_Tournament_21" "Paryžius 2023"
 		
+		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		//HUD: Help/Medals/Defuse Info Panel
+		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+		//30972
+		"SFUIHUD_InfoPanel_PriorityMsgTitle"	"Įspėjimas"
+
+		"SFUIHUD_InfoPanel_DefuseTitle"			"Nukenksminimo laikas:"
+		"SFUIHUD_InfoPanel_DefuseText"			"Jūs nukenksminate bombą."
+		"SFUIHUD_InfoPanel_DefuseText_NoKit"	"Jūs nukenksminate bombą\nbe įrankių."
+		"SFUIHUD_InfoPanel_Spec_DefuseText"			"%s1 nukenksmina bombą."
+		"SFUIHUD_InfoPanel_Spec_DefuseText_NoKit"	"%s1 nukenksmina bombą\nbe įrankių."
+		
+		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	//Buy Menu
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -468,28 +497,57 @@
 		"BuyMenu_MaxItemsOfType"							"Jūs galite nešiotis tik %s1 šio tipo daiktą"
 		"BuyMenu_AlreadyCarrying"							"Yra dabartiniame inventoriuje."
 		"BuyMenu_Back"										"[{v:csgo_bind:bind_cancelselect}] Atgal"
+		
+		//32797
+		"SFUI_QMM_State_find_searching"				"Ieškome žaidėjų ir serverių..."
+	
+	//36521
+		"CSGO_Home"											"PAGRINDINIS"
+		"CSGO_MainMenu_Play"								"ŽAISTI"
+		"CSGO_MainMenu_Inventory"							"INVENTORIUS"
+		"CSGO_MainMenu_Watch"								"ŽIŪRĖTI"
+		"CSGO_MainMenu_Awards"								"APDOVANOJIMAI"
+		"CSGO_MainMenu_Options"								"NUSTATYMAI"
+		"CSGO_MainMenu_Online"								"PIRŠLYBOS"
+		"CSGO_MainMenu_Offline"								"VIETINIS ŽAIDIMAS"
+		"CSGO_MainMenu_QuickMatchButton"					"GREITAS ŽAIDIMAS"
+		"CSGO_MainMenu_CustomMatchButton"					"SURASTI ŽAIDIMĄ"
+		"CSGO_MainMenu_BrowseServersButton"					"NARŠYTI BENDRUOMENĖS SERVERIUS"
+		"CSGO_MainMenu_ReportServer"        				"PRANEŠTI APIE ŠĮ SERVERĮ"
+		"CSGO_MainMenu_CommunityQuickplay"					"BENDRUOMENĖS GREITAS ŽAIDIMAS"
+		"CSGO_MainMenu_FriendsMatchButton"					"ŽAISTI SU DRAUGAIS"
+		"CSGO_MainMenu_InsigniaMatchButton"					"ŽAISTI SU EMBLEMA"
+		"CSGO_MainMenu_WithBotsButton"						"ATSIJUNGUS"
+		"CSGO_MainMenu_Training"							"TRENIRUOTĖ"
+		"CSGO_MainMenu_LeaderboardsButton"					"LYGŲ LENTELĖ"
+		"CSGO_MainMenu_AchievementsButton"					"PASIEKIMAI"
+		"CSGO_MainMenu_StatsButton"							"Statistika"
+		"CSGO_MainMenu_ControlsButton"						"Valdymo pultelis"
+		"CSGO_MainMenu_MouseKeyboardButton"					"Klaviatūra ir pelė"
+		"CSGO_MainMenu_SettingsButton"						"Žaidimo nustatymai"
+		"CSGO_MainMenu_VideoSettings"						"Vaizdo nustatymai"
+		"CSGO_MainMenu_AudioSettings"						"Garso nustatymai"
+		"CSGO_MainMenu_CreditsButton"						"Kreditai"
+		
+		//36571
+		"store_tab_newstore"								"Nauji Leidiniai"
+		"store_tab_prime"									"Pirminis"
+		"store_tab_store"									"Parduotuvė"
+		"store_tab_coupons"									"Kuponas"
+		"store_tab_market"									"Turgus"
+		"store_tab_keys"									"Raktai"
+		"store_tab_operation"								"Operacija {s:operation_name}"
+		"store_tab_tournament"								"{s:tournament_name}"
+		"store_tournament_price_reduction"					"{s:reduction} {s:reduction_name}"
+		"store_tournament_reduction_strickers"				"Turnyro Lipdukai!"
+		"store_tab_proteams"								"2020 Komandų Lipdukai"
+
+		//36583
+		"store_btn_filter_coupons_not_found"				"Nepavyko rasti kuponų su šiuo pavadinimu"
+		"store_btn_filter_coupons"							"Ieškoti Kuponų"
+		"store_btn_filter_coupons_browse"					"Naršyti Kuponus"
 	
 		
-	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-	// Party 
-	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-		//37700
-		"party_found_match"									"Rastas žaidimas"
-		"party_play"										"ŽAISTI CS:GO"
-		"party_play_client"									"ŽAIDIMO NUSTATYMAI"
-		"party_starting_match"								"Pradedamas žaidimas"
-		"party_search"										"Pradėti paiešką"
-		"party_start_local"									"Pradėti žaidimą"
-		"party_find"										"Ieškomas žaidimas..."
-		"party_match_settings"								"Žaidimo nustatymai"
-		"party_waiting_lobby_leader"						"Laukiama komandos lyderio..."
-		"party_chat_placeholder"							"Siųsti žinutę"
-		"party_chat_placeholder_empty_lobby"				"Pakviesti draugus pokalbiui"
-		"party_player_invited"								"Pakviestas"
-		"party_lobby_started"								"Sukurta komanda, paspauskite, kad kalbėtumėtės"
-		"party_lobby_connected"								"Prisijungta prie komandos. Paspauskite, kad atidarytumėte pokalbį"
-	
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	//Play menu
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -512,7 +570,26 @@
 	
 		//37578
 		"match_ready_accept"								"PATVIRTINTI"
-	
+		
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// Party 
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+		//37700
+		"party_found_match"									"Rastas žaidimas"
+		"party_play"										"ŽAISTI CS:GO"
+		"party_play_client"									"ŽAIDIMO NUSTATYMAI"
+		"party_starting_match"								"Pradedamas žaidimas"
+		"party_search"										"Pradėti paiešką"
+		"party_start_local"									"Pradėti žaidimą"
+		"party_find"										"Ieškomas žaidimas..."
+		"party_match_settings"								"Žaidimo nustatymai"
+		"party_waiting_lobby_leader"						"Laukiama komandos lyderio..."
+		"party_chat_placeholder"							"Siųsti žinutę"
+		"party_chat_placeholder_empty_lobby"				"Pakviesti draugus pokalbiui"
+		"party_player_invited"								"Pakviestas"
+		"party_lobby_started"								"Sukurta komanda, paspauskite, kad kalbėtumėtės"
+		"party_lobby_connected"								"Prisijungta prie komandos. Paspauskite, kad atidarytumėte pokalbį"
 	
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	//Anti-Addiction
@@ -585,33 +662,7 @@
 		"tooltip_join_public_lobby"							"Prisijunkite prie viešos komandos"
 		"tooltip_suggested_lobby"							"Šis komanda atvira tik „Steam“ grupės nariams."
 		
-		//36521
-		"CSGO_Home"											"PAGRINDINIS"
-		"CSGO_MainMenu_Play"								"ŽAISTI"
-		"CSGO_MainMenu_Inventory"							"INVENTORIUS"
-		"CSGO_MainMenu_Watch"								"ŽIŪRĖTI"
-		"CSGO_MainMenu_Awards"								"APDOVANOJIMAI"
-		"CSGO_MainMenu_Options"								"NUSTATYMAI"
-		"CSGO_MainMenu_Online"								"PIRŠLYBOS"
-		"CSGO_MainMenu_Offline"								"VIETINIS ŽAIDIMAS"
-		"CSGO_MainMenu_QuickMatchButton"					"GREITAS ŽAIDIMAS"
-		"CSGO_MainMenu_CustomMatchButton"					"SURASTI ŽAIDIMĄ"
-		"CSGO_MainMenu_BrowseServersButton"					"NARŠYTI BENDRUOMENĖS SERVERIUS"
-		"CSGO_MainMenu_ReportServer"        				"PRANEŠTI APIE ŠĮ SERVERĮ"
-		"CSGO_MainMenu_CommunityQuickplay"					"BENDRUOMENĖS GREITAS ŽAIDIMAS"
-		"CSGO_MainMenu_FriendsMatchButton"					"ŽAISTI SU DRAUGAIS"
-		"CSGO_MainMenu_InsigniaMatchButton"					"ŽAISTI SU EMBLEMA"
-		"CSGO_MainMenu_WithBotsButton"						"ATSIJUNGUS"
-		"CSGO_MainMenu_Training"							"TRENIRUOTĖ"
-		"CSGO_MainMenu_LeaderboardsButton"					"LYGŲ LENTELĖ"
-		"CSGO_MainMenu_AchievementsButton"					"PASIEKIMAI"
-		"CSGO_MainMenu_StatsButton"							"Statistika"
-		"CSGO_MainMenu_ControlsButton"						"Valdymo pultelis"
-		"CSGO_MainMenu_MouseKeyboardButton"					"Klaviatūra ir pelė"
-		"CSGO_MainMenu_SettingsButton"						"Žaidimo nustatymai"
-		"CSGO_MainMenu_VideoSettings"						"Vaizdo nustatymai"
-		"CSGO_MainMenu_AudioSettings"						"Garso nustatymai"
-		"CSGO_MainMenu_CreditsButton"						"Kreditai"
+		
 		
 		//popup Subscription	
 		
@@ -672,30 +723,29 @@
 		"CSGO_Notice_Alert_Freeze_Pause"					"ŽAIDIMAS SUSTABDYTAS"
 
 		"CSGO_FriendsCountLabel"							"{d:num_friends} Prisijungę"
-
-		//36571
-		"store_tab_newstore"								"Nauji Leidiniai"
-		"store_tab_prime"									"Pirminis"
-		"store_tab_store"									"Parduotuvė"
-		"store_tab_coupons"									"Kuponas"
-		"store_tab_market"									"Turgus"
-		"store_tab_keys"									"Raktai"
-		"store_tab_operation"								"Operacija {s:operation_name}"
-		"store_tab_tournament"								"{s:tournament_name}"
-		"store_tournament_price_reduction"					"{s:reduction} {s:reduction_name}"
-		"store_tournament_reduction_strickers"				"Turnyro Lipdukai!"
-		"store_tab_proteams"								"2020 Komandų Lipdukai"
-
-		//36583
-		"store_btn_filter_coupons_not_found"				"Nepavyko rasti kuponų su šiuo pavadinimu"
-		"store_btn_filter_coupons"							"Ieškoti Kuponų"
-		"store_btn_filter_coupons_browse"					"Naršyti Kuponus"
-		
 		
 		//38862
 		"playerstats_link"						"Tvarkyti prenumeratą"
 		"playerstats_link_reactivate"			"Atnaujinti prenumeratą"
 		"playerstats_link_get"					"Prenumeruoti"
+		
+		//38870
+		playerstats_subscription_buy_button"			"AKTYVUOTI MĖNESINĘ PRENUMERATĄ\n{s:price} / MĖNESIUI"
+		
+		//////////////////////////////////////////////////////////////////
+		//
+		//	WIN PANEL
+		//
+		///////////////////////////////////////////////////////////
+
+		"Panorama_winpanel_mvp_award"			"MVP: {s:mvp}"
+		"Panorama_winpanel_mvp_award_kills"		"MVP: {s:mvp} daugiausiai eliminavimų"
+		"Panorama_winpanel_mvp_award_bombplant"	"MVP: {s:mvp} už bombos padėjimą"
+		"Panorama_winpanel_mvp_award_bombdefuse"	"MVP: {s:mvp} už bombos nukenksminimą"
+		"Panorama_winpanel_mvp_award_rescue"		"MVP: {s:mvp} už įkaito išlaisvinimą"
+		"Panorama_winpanel_mvp_award_score"		"MVP: {s:mvp} už aukščiausią įvertinimą"
+		"Panorama_winpanel_mvp_award_gungame"	"{s:mvp}"
+		"Panorama_winpanel_mvp_winner"			"{s:mvp}"
 		
 		//////////////////////////////////////////////////////////////////
 		//
@@ -1042,9 +1092,9 @@
 		"SFUI_XP_RankName_31"								"Majoras."					
 		"SFUI_XP_RankName_32"								"Majoras."
 
-		"SFUI_XP_RankName_33"								"pulkininkas."
-		"SFUI_XP_RankName_34"								"pulkininkas."
-		"SFUI_XP_RankName_35"								"pulkininkas."
+		"SFUI_XP_RankName_33"								"Pulkininkas."
+		"SFUI_XP_RankName_34"								"Pulkininkas."
+		"SFUI_XP_RankName_35"								"Pulkininkas."
 		"SFUI_XP_RankName_36"								"Brigados Generolas."
 
 		"SFUI_XP_RankName_37"								"Majoras Generolas."							
@@ -1086,7 +1136,7 @@
 		"SFUI_GameModeSurvival"								"Pavojaus Zona"
 		"SFUI_GameModeScrimComp2v2"							"Sparnininkas"
 		"SFUI_GameModeScrimComp5v5"							"Ginklų Ekspertas"
-		"SFUI_GameModeSkirmish"								"Karo Žaidimas"
+		"SFUI_GameModeSkirmish"								"Karo Žaidimai"
 		"SFUI_GameModeTraining"								"Treniruotė"
 		"SFUI_Deathmatch"									"Mirties Rungtynės"
 		"SFUI_Cooperative"									"Sargybinis"
@@ -1112,7 +1162,7 @@
 		"SFUI_GameMode_cooperative"							"Sargybinis"
 		"SFUI_GameMode_coopmission"							"Co-op Strike"
 		"SFUI_GameMode_Survival"							"Pavojaus Zona"
-		"SFUI_GameMode_custom"								"Custom"
+		"SFUI_GameMode_custom"								"Pasirinktinis"
 
 		"SFUI_GameModeGGProgressive"						"Ginklavimosi Varžybos"
 		"SFUI_GameModeGGBomb"								"Griovimas"
@@ -1448,10 +1498,6 @@
 	//HUD: Help/Medals/Defuse Info Panel
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-		"SFUIHUD_InfoPanel_HelpTitle"		""
-
-		"SFUIHUD_InfoPanel_PriorityMsgTitle"	"Įspėjimas"
-		
 		"UI_Alert"		"Įspėjimas"
 		"UI_Help" 		"Pagalba"
 
