@@ -425,6 +425,8 @@
 		
 		//28367
 		"SFUI_MainMenu_Stats"				"CS:GO 360 STATISTIKA"
+		
+
 	
 	
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -460,6 +462,23 @@
 		"CSGO_Watch_Cat_Tournament_19" "Antverpenas 2022"
 		"CSGO_Watch_Cat_Tournament_20" "Rio 2022"
 		"CSGO_Watch_Cat_Tournament_21" "Paryžius 2023"
+		
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+		//29866
+		"CSGO_Inventory_Weapon_Category_Any"			"Visi"
+		"CSGO_Inventory_Weapon_Category_Pistols"		"Pistoletai"
+		"CSGO_Inventory_Weapon_Category_Rifles"			"Graižtviniai"
+		"CSGO_Inventory_Weapon_Category_Heavy"			"Sunkieji"
+		"CSGO_Inventory_Weapon_Category_Smgs"			"Pistoletai kulkosvaidžiai"
+		"CSGO_Inventory_Weapon_Category_Gear"			"Įrankiai"
+		"CSGO_Inventory_Weapon_Category_Grenades"		"Granatos"
+		"CSGO_Inventory_Weapon_Category_None"			"Nė vieno"
+	
+		//29875
+		CSGO_Inventory_Team_Any"							"Betkuri"
+		"CSGO_Inventory_Team_CT"							"Anti-Teroristai"
+		"CSGO_Inventory_Team_T"								"Teroristai"
 		
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//HUD: Help/Medals/Defuse Info Panel
@@ -500,6 +519,9 @@
 		
 		//32797
 		"SFUI_QMM_State_find_searching"				"Ieškome žaidėjų ir serverių..."
+		
+		//33219
+		"SFUI_Lobby_StatusInGame"			"Žaidžia kitą žaidimą"
 	
 	//36521
 		"CSGO_Home"											"PAGRINDINIS"
@@ -814,8 +836,8 @@
 		"FriendsList_nodata_recents_title"					"Pastarieji komandos nariai"
 		"FriendsList_nodata_requests_title"					"Kvietimai draugauti"
 		"FriendsList_nodata_requests"						"Jūs neturite laukiamų arba išsiustų draugų pakvietimų.\n"
-		"FriendsList_nodata_lobbies_title"					"Artimi fojė"
-		"FriendsList_nodata_advertising_title"				"Ieškoma kad žaisti"
+		"FriendsList_nodata_lobbies_title"					"Netoliese esančios komandos"
+		"FriendsList_nodata_advertising_title"				"Ieškoma žaidimui"
 		"FriendsList_No_Steam_Logon_title"					"Jūs esate neprisijungęs"
 
 		
@@ -909,19 +931,15 @@
 		"matchdraft_opponent_team"							"Priešas"
 
 	
-	// PLAY OPTIONS (MENUS)
+	// Play Main dropdown
 	
+		//37587
 		"play_setting_online"								"Prisijungus"
 		"play_setting_offline"								"Atsijungus"
 		"play_setting_training_course"						"Treniruotė"
 		"play_setting_workshop"								"Dirbtuvė"
 		"play_setting_community"							"Bendruomenė"
-			
-	// INVENTORY TEAM INFO
 	
-		"CSGO_Inventory_Team_Any"							""
-		"CSGO_Inventory_Team_CT"							""
-		"CSGO_Inventory_Team_T"								""
 			
 	// INVENTORY EXTERIOR
 		
@@ -1125,8 +1143,9 @@
 		"SFUI_Lobby_SearchTitle_OngoingMatches"				"Vykstančios rungtynės... %s1"
 		"SFUI_Lobby_SearchTitle_PlayersOnline"				"Prisijungę žaidėjai... %s1"
 
-	// GAME MODE NAMES
+		// game mode names
 
+		//27827
 		"SFUI_GameMode"										"Režimas"
 		"SFUI_GameModeClassic"								"Klasikinis"
 		"SFUI_GameModeCasual"								"Paprastas"
