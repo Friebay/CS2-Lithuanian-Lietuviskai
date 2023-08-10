@@ -298,7 +298,7 @@
 		"Cstrike_TitlesTXT_CTs_Full"							"CT komanda yra pilna"
 		"Cstrike_TitlesTXT_CTs_PreventEscape"					"CT neleido didžiajai komandos daliai
 		teroristų pabėgti."
-		"Cstrike_TitlesTXT_CTs_Win"								"Anti-Teroristai laimi!"
+		"Cstrike_TitlesTXT_CTs_Win"								"Anti-Teroristai laimėjo!"
 		"Cstrike_TitlesTXT_Cannot_Be_Spectator"					"Jūs negalite būti žiūrovas."
 		"Cstrike_TitlesTXT_Cannot_Buy_This"						"Jūs negalite pirkti šio daikto."
 		"Cstrike_TitlesTXT_Cannot_Carry_Anymore"				"Jūs negalite turėti daugiau nei vieną šio daikto."
@@ -476,7 +476,7 @@
 		"CSGO_Inventory_Weapon_Category_None"			"Nė vieno"
 	
 		//29875
-		CSGO_Inventory_Team_Any"							"Betkuri"
+		"CSGO_Inventory_Team_Any"							"Betkuri"
 		"CSGO_Inventory_Team_CT"							"Anti-Teroristai"
 		"CSGO_Inventory_Team_T"								"Teroristai"
 		
@@ -493,6 +493,17 @@
 		"SFUIHUD_InfoPanel_Spec_DefuseText"			"%s1 nukenksmina bombą."
 		"SFUIHUD_InfoPanel_Spec_DefuseText_NoKit"	"%s1 nukenksmina bombą\nbe įrankių."
 		
+		
+		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		//Win Panel
+		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+		//31274
+		"SFUI_WinPanel_CT_Win"			"Anti-Teroristai laimėjo"
+		"SFUI_WinPanel_T_Win"			"Teroristai laimėjo"
+		"SFUI_WinPanel_Team_Win_Team"		"%s1 laimėjo raundą"
+		"SFUI_WinPanel_Coop_Mission_Win"		"Misija įvykdyta!"
+		"SFUI_WinPanel_Coop_Mission_Lose"		"Misija žlugo!"
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	//Buy Menu
@@ -520,8 +531,44 @@
 		//32797
 		"SFUI_QMM_State_find_searching"				"Ieškome žaidėjų ir serverių..."
 		
-		//33219
+		//33216
+		"SFUI_Lobby_StatusInvited"			"<font color='#4F6782'>Invited</font>"
+		"SFUI_Lobby_StatusInLobby"			"Fojė"
+		"SFUI_Lobby_StatusInLevel"			"ŽLygyje"
 		"SFUI_Lobby_StatusInGame"			"Žaidžia kitą žaidimą"
+		"SFUI_Lobby_StatusPlayingCSGO"		"Žaidžia CS:GO"
+		"SFUI_Lobby_StatusWatchingCSGO"		"Žiūri CS:GO mačą"
+		"SFUI_Lobby_StatusOverwatch"		"CS:GO Žaidimų peržiūros sesijoje"
+		"SFUI_Lobby_StatusOffline"			"Atsijungęs"
+		"SFUI_Lobby_StatusOnline"			"Prisijungęs"
+		"SFUI_Lobby_StatusSnooze"			"Snaudžia"
+		"SFUI_Lobby_StatusBusy"				"Užimtas"
+		"SFUI_Lobby_StatusAway"				"Išvykęs"
+		
+		//////////////////////////////////////////////////////////////////////////////////////////
+		//
+		// Panorama localization
+		//
+		//
+	
+	//36219
+	"UI_ConfirmExitTitle"			"Patvirtinti išėjimą"
+	"UI_ConfirmExitMessage"			"Ar tikrai norite išeiti?"
+	"UI_Quit"						"IŠEITI"
+	"UI_Return"						"GRĮŽTI"
+
+	"Month_January" "Sausis"
+	"Month_February" "Vasaris"
+	"Month_March" "Kovas"
+	"Month_April" "Balandis"
+	"Month_May" "Gegužė"
+	"Month_June" "Birželis"
+	"Month_July" "Liepa"
+	"Month_August" "Rugpjūtis"
+	"Mėnuo_Rugsėjis" "Rugsėjis"
+	"Month_October" "Spalis"
+	"Month_November" "Lapkritis"
+	"Month_December" "December"
 	
 	//36521
 		"CSGO_Home"											"PAGRINDINIS"
