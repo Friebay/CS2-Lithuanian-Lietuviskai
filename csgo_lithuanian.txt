@@ -407,6 +407,9 @@
 		"SFUI_Mapgroup_reserves" "Atsarginių grupė"
 		"SFUI_Mapgroup_casualdelta" "Nukenksmintojų grupė Delta"
 		"SFUI_Mapgroup_casualsigma" "Nukenksmintojų grupė Sigma"
+		
+		//28367
+		"SFUI_MainMenu_Stats"				"CS:GO 360 STATISTIKA"
 	
 	
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -582,32 +585,6 @@
 		"tooltip_join_public_lobby"							"Prisijunkite prie viešos komandos"
 		"tooltip_suggested_lobby"							"Šis komanda atvira tik „Steam“ grupės nariams."
 		
-		//37800
-		"tooltip_invite"				"Pakvieskite draugą žaisti"
-		"tooltip_Join"					"Prisijunkite prie draugo"
-		"tooltip_watch" "Stebėti vykstantį žaidimą"
-		"tooltip_steamprofile" "Peržiūrėti bendruomenės profilį"
-		"tooltip_message" "Siųsti žinutę"
-		"tooltip_trade" "Prekiauti su draugu"
-		"tooltip_friendaccept" "Priimti draugo užklausą"
-		"tooltip_friendignore" "Ignoruoti draugo užklausą"
-		"tooltip_removefriend" "Pašalinti draugą"
-		"tooltip_request" "Siųsti draugo užklausą"
-		"tooltip_kick_from_lobby" "Išmesti iš komandos"
-		"tooltip_leave_lobby" "Išeiti iš komandos"
-		"tooltip_editprofile" "Redaguoti bendruomenės profilį"
-		"tooltip_changecolor" "Pakeisti pageidaujamą spalvą"
-		"tooltip_mute" "Vilkite arba spustelėkite, kad pakeistumėte balso garsumą"
-		"tooltip_report" "Pranešti"
-		"tooltip_commend"				"Pagirti"
-		"tooltip_borrowmusickit" "Pasiskolinti muzikos rinkinį"
-		"tooltip_stopborrowmusickit" "Nustoti skolintis muzikos rinkinį"
-		"tooltip_cancelinvite" "Atšaukti laukiančią draugo užklausą"
-		"tooltip_canelsearch" "Atšaukti paiešką"
-		"tooltip_discard_invite" "Atmesti šį kvietimą"
-		"tooltip_friend_invited_you" "Kvietimas iš <b>{s:friendname}</b>"
-		"tooltip_lobby_leader_name" "{s:friendname}"
-
 		//36521
 		"CSGO_Home"											"PAGRINDINIS"
 		"CSGO_MainMenu_Play"								"ŽAISTI"
@@ -635,6 +612,43 @@
 		"CSGO_MainMenu_VideoSettings"						"Vaizdo nustatymai"
 		"CSGO_MainMenu_AudioSettings"						"Garso nustatymai"
 		"CSGO_MainMenu_CreditsButton"						"Kreditai"
+		
+		//popup Subscription	
+		
+		//37316
+		"popup_subscription_desc"			"Gilinkitės į konkurencines ir sparnininko rungtynes.\nCS:GO 360 statistiką galima įsigyti kaip nuolatinę mėnesio prenumeratą."
+		"popup_subscription_stats_hub"		"CS:GO 360 statistikos centras"
+		"popup_subscription_stats_hub_desc"	"Naršykite visą konkurencinių, sparnininko, pirmaeilių rungtynių statistiką vienoje vietoje. Diagramoje atvaizduokite savo progresą viename mače ar savo karjeroje.\n\nVisą anksčiau surinktą rungtynių statistiką galite peržiūrėti čia. Suaktyvinkite prenumeratą, kad matytumėte daugiau!"
+		"popup_subscription_probability"			"Raundo laimėjimo tikimybė"
+		"popup_subscription_probability_desc"		"Maksimaliai išnaudokite savo galimybes. Pažiūrėkite, kaip klostėsi ankstesnis raundas, ir sužinokite, kaip kiekvienas nužudymas pakeičia jūsų galimybes laimėti."
+		"popup_subscription_lastmatch"			"Paskutinių rungtynių ataskaita"
+		"popup_subscription_lastmatch_desc"		"Iš naujo išgyvenkite paskutines rungtynes su išsamia statistika pagrindiniame meniu."
+		
+		//37800
+		"tooltip_invite"				"Pakvieskite draugą žaisti"
+		"tooltip_Join"					"Prisijunkite prie draugo"
+		"tooltip_watch" "Stebėti vykstantį žaidimą"
+		"tooltip_steamprofile" "Peržiūrėti bendruomenės profilį"
+		"tooltip_message" "Siųsti žinutę"
+		"tooltip_trade" "Prekiauti su draugu"
+		"tooltip_friendaccept" "Priimti draugo užklausą"
+		"tooltip_friendignore" "Ignoruoti draugo užklausą"
+		"tooltip_removefriend" "Pašalinti draugą"
+		"tooltip_request" "Siųsti draugo užklausą"
+		"tooltip_kick_from_lobby" "Išmesti iš komandos"
+		"tooltip_leave_lobby" "Išeiti iš komandos"
+		"tooltip_editprofile" "Redaguoti bendruomenės profilį"
+		"tooltip_changecolor" "Pakeisti pageidaujamą spalvą"
+		"tooltip_mute" "Vilkite arba spustelėkite, kad pakeistumėte balso garsumą"
+		"tooltip_report" "Pranešti"
+		"tooltip_commend"				"Pagirti"
+		"tooltip_borrowmusickit" "Pasiskolinti muzikos rinkinį"
+		"tooltip_stopborrowmusickit" "Nustoti skolintis muzikos rinkinį"
+		"tooltip_cancelinvite" "Atšaukti laukiančią draugo užklausą"
+		"tooltip_canelsearch" "Atšaukti paiešką"
+		"tooltip_discard_invite" "Atmesti šį kvietimą"
+		"tooltip_friend_invited_you" "Kvietimas iš <b>{s:friendname}</b>"
+		"tooltip_lobby_leader_name" "{s:friendname}"
 
 		"CSGO_PauseMenu_OpenLoadout_Competitive"			"INVENTORIUS <span class=\"PauseMenuSmallText\">(išjungti konkurencijos stiliaus žaidime)</span>"
 		"CSGO_PauseMenu_OpenLoadout_Disabled"				"INVENTORIUS <span class=\"PauseMenuSmallText\">(išjungti, kol jūs esate gyvas(-a))</span>"
@@ -659,6 +673,7 @@
 
 		"CSGO_FriendsCountLabel"							"{d:num_friends} Prisijungę"
 
+		//36571
 		"store_tab_newstore"								"Nauji Leidiniai"
 		"store_tab_prime"									"Pirminis"
 		"store_tab_store"									"Parduotuvė"
@@ -671,9 +686,16 @@
 		"store_tournament_reduction_strickers"				"Turnyro Lipdukai!"
 		"store_tab_proteams"								"2020 Komandų Lipdukai"
 
+		//36583
 		"store_btn_filter_coupons_not_found"				"Nepavyko rasti kuponų su šiuo pavadinimu"
 		"store_btn_filter_coupons"							"Ieškoti Kuponų"
 		"store_btn_filter_coupons_browse"					"Naršyti Kuponus"
+		
+		
+		//38862
+		"playerstats_link"						"Tvarkyti prenumeratą"
+		"playerstats_link_reactivate"			"Atnaujinti prenumeratą"
+		"playerstats_link_get"					"Prenumeruoti"
 		
 		//////////////////////////////////////////////////////////////////
 		//
@@ -681,6 +703,7 @@
 		//
 		///////////////////////////////////////////////////////////
 		
+		//39303
 		"Panorama_SurvivalEndOfMatch_ShowStats"			"[{v:csgo_bind:bind_jump}] rodyti mačo statistiką"
 		"Panorama_Freeze_Cancel_Start_Replay"			"[{v:csgo_bind:bind_jump}] praleisti"
 		"Panorama_Freeze_Cancel_Replay" 				"[{v:csgo_bind:bind_jump}] atšaukti peržiūrą"
