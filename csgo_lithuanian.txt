@@ -344,6 +344,56 @@
 		"Cstrike_Chat_CT_Dead"				"*MIRĘS*(Anti-Teroristai) %s1 :  %s2"
 		"Cstrike_Chat_T_Dead"				"*MIRĘS*(Teroristai) %s1 :  %s2"
 		"Cstrike_Name_Change"				"* %s1 pasikeitė vardą į %s2"
+		
+		//1364
+		"SFUI_WPNHUD_Pistol"								"Pistoletai"
+		"SFUI_WPNHUD_SMG"									"SMG"
+		"SFUI_WPNHUD_Rifle"									"Šautuvai"
+		"SFUI_WPNHUD_Heavy"									"Sunkieji"
+		"SFUI_WPNHUD_Grenade"								"Granatos"
+		"SFUI_WPNHUD_SniperRifle"							"Saniperio Šautuvas"
+		"SFUI_WPNHUD_Sniper"								"Sniperis"
+		"SFUI_WPNHUD_Shotgun"								"Šratinis Šautuvas"
+		"SFUI_WPNHUD_DesertEagle"							"Dykumos Erelis"
+		"SFUI_WPNHUD_Deagle"								"Dykumos Erelis"
+		"SFUI_WPNHUD_Elites"								"Dvigubos beretės"
+		"SFUI_WPNHUD_Elite"									"Dvigubos beretės"
+		"SFUI_WPNHUD_HE_Grenade"							"Didelio sprogstamumo granata"
+		"SFUI_WPNHUD_HEGrenade"								"Didelio sprogstamumo granata"
+		"SFUI_WPNHUD_Knife"									"Peilis"
+		"SFUI_WPNHUD_Knife_T"								"Peilis"
+		"SFUI_WPNHUD_Knife_GG"								"Auksinis Peilis"
+		"SFUI_WPNHUD_Smoke_Grenade"							"Dūmų Granata"
+		"SFUI_WPNHUD_SmokeGrenade"							"Dūmų Granata"
+		"SFUI_WPNHUD_C4"									"Sprogmuo"
+		"SFUI_WPNHUD_Molotov"								"Molotovas"
+		"SFUI_WPNHUD_IncGrenade"							"Padegamoji Granata"
+		"SFUI_WPNHUD_Decoy"									"Masalo Granata"
+		"SFUI_WPNHUD_ASSAULTSUIT"							"Kevlaras + Šalmas"
+		"SFUI_WPNHUD_KEVLAR"								"Kevlaro Krūtinė"
+		"SFUI_WPNHUD_DEFUSER"								"Nukenksminimo Įranga"
+		"SFUI_WPNHUD_CUTTERS"								"Gelbėjimo Įranga"
+		"SFUI_WPNHUD_REVOLVER"								"R8 Revolveris"
+		"SFUI_WPNHUD_KnifeBayonet"							"Bajonetė"
+		"SFUI_WPNHUD_KnifeFlip"								"Apverčiamas peilis"
+		"SFUI_WPNHUD_KnifeGut"								"Žarnyno peilis"
+		"SFUI_WPNHUD_KnifeCSS"								"Klasikinis peilis"
+		"SFUI_WPNHUD_KnifeM9"								"M9 Bajonetė"
+		"SFUI_WPNHUD_KnifeKaram"							"Karambitas"
+		"SFUI_WPNHUD_KnifeTactical" 						"Medžiotojo peilis"
+		"SFUI_WPNHUD_Knife_Butterfly" 						"Drugelio Peilis"
+		"SFUI_WPNHUD_knife_falchion_advanced" 				"Falchion peilis"
+		"SFUI_WPNHUD_knife_push" 							"Šešėlių durklai"
+		"SFUI_WPNHUD_knife_survival_bowie" 					"Bowie peilis"
+		"SFUI_WPNHUD_Healthshot"							"Medicininė injekcija"
+		"SFUI_WPNHUD_Snowball"								"Sniego gniužtė"
+		
+		//1387
+		"SFUI_WPNHUD_Knife"			"Peilis"
+		"SFUI_WPNHUD_Knife_T"		"Peilis"
+		
+		//1558
+		"TabletKnife"				"Peilis"
 	
 		// Round Win Panel
 		
@@ -363,6 +413,9 @@
 		"winpanel_mvp_award_score"		"MVP: %s1 už aukščiausią įvertinimą"
 		"winpanel_mvp_award_gungame"	"Ginklavimosi varžybų nugalėtojas: %s1"
 		"winpanel_mvp_survivor"			"%s1 yra nugalėtojas ir vienintelis išgyvenęs žmogus!"
+		
+		//2309
+		"CSGO_Type_Knife"							"Peilis"
 	
 		//4675
 		"Place_Name_1st"		"Čempionai"
@@ -405,6 +458,16 @@
 		"CSGO_set_vertigo"						"Kolekcija „Vertigo“"
 		"CSGO_set_inferno"						"Kolekcija „Inferno“"
 		
+		//5530
+		"quest_LoadoutSlot_Melee"										"peilis"
+		
+		//5593
+		"quest_target_knife"											"peilis"
+		
+		//2657
+		"TF_Tag_Category_Quality"	"Kategorija"
+		"Tag_Category_Rarity"		"Kokybė"
+		
 		// nice map group names
 		
 		//27975
@@ -426,7 +489,12 @@
 		//28367
 		"SFUI_MainMenu_Stats"				"CS:GO 360 STATISTIKA"
 		
-
+		//28770
+		"SFUI_InvPanel_sort_inv_sort_rarity"		"Kokybė"
+		"SFUI_InvPanel_sort_leastrare"		"Atvirkštinė kokybė"
+		
+		//28822
+		"SFUI_InvTooltip_melee"								"Peilis"
 	
 	
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -505,6 +573,9 @@
 		"SFUI_WinPanel_Coop_Mission_Win"		"Misija įvykdyta!"
 		"SFUI_WinPanel_Coop_Mission_Lose"		"Misija žlugo!"
 		
+		//31664
+		"SFUI_KnifeSlot"				"Peilis"
+		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	//Buy Menu
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -514,7 +585,7 @@
 		"BuyMenu_HeavyWeapons"								"SUNKIEJI"
 		"BuyMenu_Rifles"									"GRAIŽTVINIAI GINKLAI"
 		"BuyMenu_Equipment"									"ĮRANGA"
-		"BuyMenu_Loadouts"									"IŠSIDĖSTYMAS"
+		"BuyMenu_Loadouts"									"EKIPUOTĖS"
 		"BuyMenu_SMGs"										"SMG"
 		"BuyMenu_CQB"										"CQB"
 		"BuyMenu_Grenades"									"GRANATOS"
@@ -544,6 +615,14 @@
 		"SFUI_Lobby_StatusSnooze"			"Snaudžia"
 		"SFUI_Lobby_StatusBusy"				"Užimtas"
 		"SFUI_Lobby_StatusAway"				"Išvykęs"
+		
+		//35307
+		"Skirmish_CC_RT_name"			"Perimimas"
+		"Skirmish_CC_RT_rules"			"· Bomba buvo padėta!!\n· Perimkite arba apginkite bombavietę nuo priešininkų komandos.\n· Laimėk 8 raundus šiame geriausių iš 15.\n· 3 teroristai prieš 4 anti-teroristus.\n· Pasirinkite rinkinį naudodami rinkinių korteles.\n· Patobulinkite savo ekipuotę laimėdami raundo MVP.\n· Ginklai ir ekipuotė neperkeliami iš vieno raundo į kitą."
+		"Skirmish_CC_RT_desc"			"· Bomba buvo padėta!<br>· Perimkite arba apginkite bombavietę nuo priešininkų komandos<br>· Pasirinkite ekipuotę naudodami ekipuočių korteles"
+		"Skirmish_CC_RT_details"		"Retake or defend the bomb site from the opposing team! Choose your loadout carefully!"
+
+		
 		
 		//////////////////////////////////////////////////////////////////////////////////////////
 		//
@@ -615,6 +694,16 @@
 		"store_btn_filter_coupons_not_found"				"Nepavyko rasti kuponų su šiuo pavadinimu"
 		"store_btn_filter_coupons"							"Ieškoti Kuponų"
 		"store_btn_filter_coupons_browse"					"Naršyti Kuponus"
+		
+		"inv_sort_age"						"Naujausia"
+		"inv_sort_rarity"					"Kokybė"
+		"inv_sort_alpha"					"Pagal abėcėlę"
+		"inv_sort_slot"						"Pagal tipą"
+		"inv_sort_collection"				"Kolekcija"
+		"inv_sort_equipped"					"Užsidėtas"
+		"inv_sort_wear"						"Nusidevėjimas"
+		"inv_sort_paint"					"Dažų rinkinys"
+		"inv_sort_quality"					"Kokybė"
 	
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -808,7 +897,7 @@
 		///////////////////////////////////////////////////////////
 
 		"Panorama_winpanel_mvp_award"			"MVP: {s:mvp}"
-		"Panorama_winpanel_mvp_award_kills"		"MVP: {s:mvp} daugiausiai eliminavimų"
+		"Panorama_winpanel_mvp_award_kills"		"MVP: {s:mvp} už daugiausiai eliminavimų"
 		"Panorama_winpanel_mvp_award_bombplant"	"MVP: {s:mvp} už bombos padėjimą"
 		"Panorama_winpanel_mvp_award_bombdefuse"	"MVP: {s:mvp} už bombos nukenksminimą"
 		"Panorama_winpanel_mvp_award_rescue"		"MVP: {s:mvp} už įkaito išlaisvinimą"
@@ -1325,7 +1414,7 @@
 		"SFUI_BotDifficulty4"								"Sunkūs Botai"
 		"SFUI_BotDifficulty5"								"Ekspertai Botai"
 
-		"SFUI_InvPanel_Loadout_Title"						"Įkrovimas"
+		"SFUI_InvPanel_Loadout_Title"						"Ekipuotė"
 		"SFUI_InvPanel_Inventory_Title"						"Inventorius"
 		"SFUI_InvPanel_Market_Title"						"Bendruomenės Turgus"
 		"SFUI_InvPanel_filter_Text"		    				"Filtruoti Pavadinimą"
@@ -1354,7 +1443,7 @@
 		"SFUI_BuyMenu_HeavyWeapons" 						"SUNKIEJI"
 		"SFUI_BuyMenu_Rifles"       						"GRAIŽTVINIAI GINKLAI"
 		"SFUI_BuyMenu_Equipment"    						"ĮRANGA"
-		"SFUI_BuyMenu_Loadouts"     						"IŠSIDĖSTYMAI"
+		"SFUI_BuyMenu_Loadouts"     						"EKIPUOTĖS"
 		"SFUI_BuyMenu_SMGs"         						"SMG"
 		"SFUI_BuyMenu_CQB"          						"CQB"
 		"SFUI_BuyMenu_Grenades"     						"GRANATOS"
@@ -1363,7 +1452,7 @@
 		"SFUI_BuyMenu_SelectWeapon" 						"Select\nWeapon"
 		"SFUI_BuyMenu_Inventory" 							"Inventorius"
 		"SFUI_BuyMenu_CurrentInventory" 					"Dabartinis inventorius"
-		"SFUI_BuyMenu_LoadoutNumber" 						"Išsidėstymas %s1"
+		"SFUI_BuyMenu_LoadoutNumber" 						"Ekipuotė %s1"
 		"SFUI_BuyMenu_Firepower" 							"ŠAUNAMOJI GALIA"
 		"SFUI_BuyMenu_Damage" 								"ŽALOS KIEKIS"
 		"Pano_BuyMenu_Damage_val" 							"{d:r:damage}"
@@ -1390,11 +1479,6 @@
 		"SFUI_BuyMenu_Cost" 								"KAINA:"
 		"SFUI_BuyMenu_Tagging" 								"STABDOMOJI GALIA:"
 		"Pano_BuyMenu_Tagging_val" 							"{d:r:tagging}"
-		"SFUI_BuyMenu_Tagging_1" 							"★☆☆☆☆"
-		"SFUI_BuyMenu_Tagging_2" 							"★★☆☆☆"
-		"SFUI_BuyMenu_Tagging_3" 							"★★★☆☆"
-		"SFUI_BuyMenu_Tagging_4" 							"★★★★☆"
-		"SFUI_BuyMenu_Tagging_5" 							"★★★★★"
 		"SFUI_BuyMenu_TimerText"							"Liko Pirkimo Laiko :"
 		"SFUI_BuyMenu_ImmunityTimerText"					"Liko Imuniteto Laiko:"
 		"SFUI_BuyMenu_OutOfTime" 							"%s1-ies sekundžių pirkimo periodas baigėsi"
@@ -1581,47 +1665,7 @@
 		"SFUI_TeamButtonCancel"								"Atšaukti"
 		"SFUI_TeamButtonSpectate"							"Stebėti"
 
-		"SFUI_WPNHUD_Pistol"								"Pistoletai"
-		"SFUI_WPNHUD_SMG"									"SMG"
-		"SFUI_WPNHUD_Rifle"									"Šautuvai"
-		"SFUI_WPNHUD_Heavy"									"Sunkieji"
-		"SFUI_WPNHUD_Grenade"								"Granatos"
-		"SFUI_WPNHUD_SniperRifle"							"Saniperio Šautuvas"
-		"SFUI_WPNHUD_Sniper"								"Sniperis"
-		"SFUI_WPNHUD_Shotgun"								"Šratinis Šautuvas"
-		"SFUI_WPNHUD_DesertEagle"							"Dykumos Erelis"
-		"SFUI_WPNHUD_Deagle"								"Dykumos Erelis"
-		"SFUI_WPNHUD_Elites"								"Dvigubos beretės"
-		"SFUI_WPNHUD_Elite"									"Dvigubos beretės"
-		"SFUI_WPNHUD_HE_Grenade"							"Didelio sprogstamumo granata"
-		"SFUI_WPNHUD_HEGrenade"								"Didelio sprogstamumo granata"
-		"SFUI_WPNHUD_Knife"									"Peilis"
-		"SFUI_WPNHUD_Knife_T"								"Peilis"
-		"SFUI_WPNHUD_Knife_GG"								"Auksinis Peilis"
-		"SFUI_WPNHUD_Smoke_Grenade"							"Dūmų Granata"
-		"SFUI_WPNHUD_SmokeGrenade"							"Dūmų Granata"
-		"SFUI_WPNHUD_C4"									"Sprogmuo"
-		"SFUI_WPNHUD_Molotov"								"Molotovas"
-		"SFUI_WPNHUD_IncGrenade"							"Padegamoji Granata"
-		"SFUI_WPNHUD_Decoy"									"Masalo Granata"
-		"SFUI_WPNHUD_ASSAULTSUIT"							"Kevlaras + Šalmas"
-		"SFUI_WPNHUD_KEVLAR"								"Kevlaro Krūtinė"
-		"SFUI_WPNHUD_DEFUSER"								"Nukenksminimo Įranga"
-		"SFUI_WPNHUD_CUTTERS"								"Gelbėjimo Įranga"
-		"SFUI_WPNHUD_REVOLVER"								"R8 Revolveris"
-		"SFUI_WPNHUD_KnifeBayonet"							"Bajonetė"
-		"SFUI_WPNHUD_KnifeFlip"								"Apverčiamas peilis"
-		"SFUI_WPNHUD_KnifeGut"								"Žarnyno peilis"
-		"SFUI_WPNHUD_KnifeCSS"								"Klasikinis peilis"
-		"SFUI_WPNHUD_KnifeM9"								"M9 Bajonetė"
-		"SFUI_WPNHUD_KnifeKaram"							"Karambitas"
-		"SFUI_WPNHUD_KnifeTactical" 						"Medžiotojo peilis"
-		"SFUI_WPNHUD_Knife_Butterfly" 						"Drugelio Peilis"
-		"SFUI_WPNHUD_knife_falchion_advanced" 				"Falchion peilis"
-		"SFUI_WPNHUD_knife_push" 							"Šešėlių durklai"
-		"SFUI_WPNHUD_knife_survival_bowie" 					"Bowie peilis"
-		"SFUI_WPNHUD_Healthshot"							"Gydomasis-Shotas"
-		"SFUI_WPNHUD_Snowball"								"Sniego Gniužtė"
+		
 
 	// Loadout slots
 		"LoadoutSlot_Melee"									"Artima Kova"
