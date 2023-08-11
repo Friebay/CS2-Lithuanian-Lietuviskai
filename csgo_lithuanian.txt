@@ -392,8 +392,21 @@
 		"SFUI_WPNHUD_Knife"			"Peilis"
 		"SFUI_WPNHUD_Knife_T"		"Peilis"
 		
-		//1558
-		"TabletKnife"				"Peilis"
+		//1527
+		"TabletNotification_HighlightedSectors"				"[{v:csgo_bind:bind_buymenu}] Pirkimo meniu"
+		"TabletNotification_NoDronesToControl"				"Šiuo metu nuotoliniu būdu pilotuojamų dronų nėra."
+		"TabletNotification_IncomingDelivery"				"Atkeliauja užsakymas"
+		"TabletNotification_ExplorationPayment"				"Tyrinėjimas +${d:exploreprice}"
+		"TabletNotification_ExplorationPayment_Bonus" 		"Tyrinėjimas +${d:exploreprice} & +${d:explorebonus}"
+		"TabletNotification_BombWaveMoney"					"Išgyvenimas +${d:surviveprice}"
+		"TabletNotification_BombWaveMoney_Bonus"			"Išgyvenimas +${d:surviveprice} & +${d:survivebonus}"
+		
+		//1555
+		"TabletBuyMenu"										"Planšetės automatinis pristatymas"
+		"TabletKnife"										"Peilis"
+		"TabletHintBuy"										"[{v:csgo_bind:bind_buymenu}] Pirkimo menių"
+		"TabletHintMap"										"[{v:csgo_bind:bind_teammenu}] Žemėlapis"
+		"TabletHintClose"									"[{v:csgo_bind:bind_showscores}] Uždaryti"
 	
 		// Round Win Panel
 		
@@ -413,6 +426,39 @@
 		"winpanel_mvp_award_score"		"MVP: %s1 už aukščiausią įvertinimą"
 		"winpanel_mvp_award_gungame"	"Ginklavimosi varžybų nugalėtojas: %s1"
 		"winpanel_mvp_survivor"			"%s1 yra nugalėtojas ir vienintelis išgyvenęs žmogus!"
+		
+		// Loadout slots
+		
+		//2253
+		"LoadoutSlot_Melee"									"Artimos kovos ginklai"
+		"LoadoutSlot_C4"									"C4"
+		"LoadoutSlot_Secondary"								"Pistoletai"
+		"LoadoutSlot_SMG"									"SMG"
+		"LoadoutSlot_Rifle"									"Šautuvai"
+		"LoadoutSlot_Heavy"									"Sunkieji"
+		"LoadoutSlot_Grenade"								"Granatos"
+		"LoadoutSlot_Equipment"								"Įranga"
+		"LoadoutSlot_clothing"								"Pirštinės"
+		"LoadoutSlot_clothing_hands"						"Pirštinės"
+
+		"LoadoutSlot_Flair"									"Eksponatai"
+		"LoadoutSlot_Spray"									"Grafičiai"
+		"LoadoutSlot_Spray0"								"Grafičiai"
+		"LoadoutSlot_customplayer"							"Agentai"
+		
+		"LoadoutSlot_MusicKit"								"Muzikos rinkiniai"
+
+		// Weapon Rarity Names
+		"Rarity_Default_Weapon"								"Įprastas"
+		"Rarity_Common_Weapon"								"Vartotojo laipsnis"
+		"Rarity_Uncommon_Weapon"							"Pramoninės klasės"
+		"Rarity_Rare_Weapon"								"Militarinės klasės"
+		"Rarity_Mythical_Weapon"							"Apribotas"
+		"Rarity_Legendary_Weapon"							"Įslaptintas"
+		"Rarity_Ancient_Weapon"								"Užslėptas"
+		"Rarity_Contraband_Weapon"							"Kontrabandinis"
+		"Rarity_Arcana_Weapon"								"NEVARDINTAS"
+		"CSGO_FilterRarity"									"Visos retenybės"
 		
 		//2309
 		"CSGO_Type_Knife"							"Peilis"
@@ -562,6 +608,30 @@
 		"SFUIHUD_InfoPanel_Spec_DefuseText_NoKit"	"%s1 nukenksmina bombą\nbe įrankių."
 		
 		
+		// Panorama strings
+		
+		//31098
+		"PANOHUD_Spectate_Navigation_Camera"				"[{v:csgo_bind:bind_jump}] Kamera "
+		"PANOHUD_Spectate_Navigation_Arrows_Prev"			"[{v:csgo_bind:bind_attack2}] Preitas žaidėjas"
+		"PANOHUD_Spectate_Navigation_Arrows"				"[{v:csgo_bind:bind_attack}] Sekantis žaidėjas"
+		"PANOHUD_Spectate_Navigation_Replay_Death"			"<font color='#ddbb22'><b>[{v:csgo_bind:bind_reload}] Žudiko pakartojimas</b></font>"
+		"PANOHUD_Spectate_Navigation_Cancel_Replay"			"[{v:csgo_bind:bind_jump}] Pabaigti pakartojimą"
+		"PANOHUD_Spectate_Navigation_Control_Bot"			"[{v:csgo_bind:bind_use}] Kontroliuoti botą "
+		"PANOHUD_Spectate_Navigation_New_ToggleXRay"		"[{v:csgo_bind:bind_slot12}] Rentgenas "
+		"PANOHUD_Spectate_Navigation_ToggleGraphs"			"[{v:csgo_bind:bind_lastinv}] Grafikai "
+		"PANOHUD_Spectate_Navigation_InspectWeapon"			"[{v:csgo_bind:bind_lookatweapon}] Apžiūrėti ginklą "
+		"PANOHUD_Spectate_Navigation_New_Director_On"		"[{v:csgo_bind:bind_radio}] Įjungti auto-dirigentas "
+		"PANOHUD_Spectate_Navigation_New_Director_Off"		"[{v:csgo_bind:bind_radio}] Išjungti auto-dirigentą "
+		"PANOHUD_Spectate_Navigation_New_Cameraman_On"		"[{v:csgo_bind:bind_radio}] Įjungti kameros operatorių "
+		"PANOHUD_Spectate_Navigation_ToggleSpec"			"[{v:csgo_bind:bind_drop}] Mini švieslentė "
+		"PANOHUD_Spectate_Navigation_ToggleOverview"		"[{v:csgo_bind:bind_duck}] Apžvalga iš viršaus "
+		"PANOHUD_GhostBecomeSpectator"						"Spauskite [%s1] kad patapti žiūrovu"
+		
+		//31115
+		"SFUIHUD_Spectate_You_Are_Dead"						"<font color=\"%s1\">Sekama %s2</font>"
+		"SFUIHUD_Spectate_RoundsLeft"						"Raundas %s1"
+		"SFUIHUD_Spectate_RoundsLeftOvertime"				"OT %s1  (%s2)"
+		
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//Win Panel
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -598,6 +668,12 @@
 		"BuyMenu_MaxItemsOfType"							"Jūs galite nešiotis tik %s1 šio tipo daiktą"
 		"BuyMenu_AlreadyCarrying"							"Yra dabartiniame inventoriuje."
 		"BuyMenu_Back"										"[{v:csgo_bind:bind_cancelselect}] Atgal"
+		
+		// TRUST FACTOR WARNING
+		
+		//32785
+		"SFUI_QMM_ERROR_X_AccountWarningTrustMinor"			"Atsargiai: %s1 turi žemėsnį patikimumo lygį nei jūs."
+		"SFUI_QMM_ERROR_X_AccountWarningTrustMajor"			"Perspėjimas: %s1 turi daug žemesnį patikimumo lygį nei jūsų."
 		
 		//32797
 		"SFUI_QMM_State_find_searching"				"Ieškome žaidėjų ir serverių..."
@@ -1667,35 +1743,7 @@
 
 		
 
-	// Loadout slots
-		"LoadoutSlot_Melee"									"Artima Kova"
-		"LoadoutSlot_C4"									"Sprogmuo"
-		"LoadoutSlot_Secondary"								"Pistoletai"
-		"LoadoutSlot_SMG"									"SMG"
-		"LoadoutSlot_Rifle"									"Šautuvai"
-		"LoadoutSlot_Heavy"									"Sunkieji"
-		"LoadoutSlot_Grenade"								"Granatos"
-		"LoadoutSlot_Equipment"								"Įranga"
-		"LoadoutSlot_clothing"								"Pirštinės"
-		"LoadoutSlot_clothing_hands"						"Pirštinės"
-
-		"LoadoutSlot_Flair"									"Eksponatai"
-		"LoadoutSlot_Spray"									"Grafičiai"
-		"LoadoutSlot_Spray0"								"Grafičiai"
-		"LoadoutSlot_customplayer"							"Agentai"
-		"LoadoutSlot_MusicKit"								"Muzikos Rinkiniai"
-
-		// Weapon Rarity Names
-		"Rarity_Default_Weapon"								"Išteklius"
-		"Rarity_Common_Weapon"								"Vartotojo laipsnis"
-		"Rarity_Uncommon_Weapon"							"Pramoninės klasės"
-		"Rarity_Rare_Weapon"								"Mil-Spec klasės"
-		"Rarity_Mythical_Weapon"							"Apribotas"
-		"Rarity_Legendary_Weapon"							"Įslaptintas"
-		"Rarity_Ancient_Weapon"								"Užslėptas"
-		"Rarity_Contraband_Weapon"							"Kontrabandinis"
-		"Rarity_Arcana_Weapon"								"NEVARDINTAS"
-		"CSGO_FilterRarity"									"Visos retenybės"
+		
 
 
 		"Rarity_Default_Character"							"Numatytas"
@@ -1805,20 +1853,8 @@
 		"teamname_Spectator"								"ŽIŪROVAI"
 
 	// DANGER ZONE
-
-	// TABLET
 	
-		"TabletBuyMenu"										"[{v:csgo_bind:bind_buymenu}] Žemėlapis"
-		"TabletHintBuy"										"   [{v:csgo_bind:bind_showscores}] Uždaryti"
-		"TabletHintMap"										" "
-		"TabletHintClose"									" "
-		"TabletNotification_HighlightedSectors"				"[{v:csgo_bind:bind_buymenu}] Pirkimo Meniu"
-		"TabletNotification_NoDronesToControl"				"Nėra dronų."
-		"TabletNotification_IncomingDelivery"				"Atkeliauja užsakymas"
-		"TabletNotification_ExplorationPayment"				"Tyrinėjimas +${d:exploreprice}"
-		"TabletNotification_ExplorationPayment_Bonus" 		"Tyrinėjimas +${d:exploreprice} & +${d:explorebonus}"
-		"TabletNotification_BombWaveMoney"					"Išgyvenimas +${d:surviveprice}"
-		"TabletNotification_BombWaveMoney_Bonus"			"Išgyvenimas +${d:surviveprice} & +${d:survivebonus}"
+		
 		
 	// DANGER ZONE SURVIVAL RESPAWN
 		"Survival_TeammateRespawned"						"Komandos narys atgimė!"
@@ -1826,29 +1862,6 @@
 		"Survival_RespawningDisabled"						"Daugiau jokių atgimimų!"
 		"Survival_Respawn_Cooldown_Too_Long"				"Daugiau jokių atgimimų!"
 		
-	// TRUST FACTOR WARNING
-		"SFUI_QMM_ERROR_X_AccountWarningTrustMinor"			"Atsargiai: %s1 turi žemėsnį patikimumo lygį nei jūs."
-		"SFUI_QMM_ERROR_X_AccountWarningTrustMajor"			"Perspėjimas: %s1 turi daug žemesnį patikimumo lygį nei jūsų."
-
-	// Panorama strings
-		"PANOHUD_Spectate_Navigation_Camera"				"[{v:csgo_bind:bind_jump}] Kamera "
-		"PANOHUD_Spectate_Navigation_Arrows_Prev"			"[{v:csgo_bind:bind_attack2}] Preitas Žaidėjas"
-		"PANOHUD_Spectate_Navigation_Arrows"				"[{v:csgo_bind:bind_attack}] Sekantis Žaidėjas"
-		"PANOHUD_Spectate_Navigation_Replay_Death"			"<font color='#ddbb22'><b>[{v:csgo_bind:bind_reload}] Žudiko pakartojimas</b></font>"
-		"PANOHUD_Spectate_Navigation_Cancel_Replay"			"[{v:csgo_bind:bind_jump}] Pabaigti Pakartojimą"
-		"PANOHUD_Spectate_Navigation_Control_Bot"			"[{v:csgo_bind:bind_use}] Kontroliuoti Botą "
-		"PANOHUD_Spectate_Navigation_New_ToggleXRay"		"[{v:csgo_bind:bind_slot12}] X-Rėjus "
-		"PANOHUD_Spectate_Navigation_ToggleGraphs"			"[{v:csgo_bind:bind_lastinv}] Grafikai "
-		"PANOHUD_Spectate_Navigation_InspectWeapon"			"[{v:csgo_bind:bind_lookatweapon}] Apžiūrėti Ginklą "
-		"PANOHUD_Spectate_Navigation_New_Director_On"		"[{v:csgo_bind:bind_radio}] Įjungti Auto-Dirigentas "
-		"PANOHUD_Spectate_Navigation_New_Director_Off"		"[{v:csgo_bind:bind_radio}] Išjungti Auto-Dirigentą "
-		"PANOHUD_Spectate_Navigation_New_Cameraman_On"		"[{v:csgo_bind:bind_radio}] Įjungti Kameros Operatorių "
-		"PANOHUD_Spectate_Navigation_ToggleSpec"			"[{v:csgo_bind:bind_drop}] Mini Švieslentė "
-		"PANOHUD_Spectate_Navigation_ToggleOverview"		"[{v:csgo_bind:bind_duck}] Apžvalga Iš Viršaus "
-		"PANOHUD_GhostBecomeSpectator"						"Spauskite [%s1] kad patapti žiūrovu"
-
-		"SFUIHUD_Spectate_You_Are_Dead"						"<font color=\"%s1\">Sekama %s2</font>"
-		"SFUIHUD_Spectate_RoundsLeft"						"Raundas %s1"
-		"SFUIHUD_Spectate_RoundsLeftOvertime"				"OT %s1  (%s2)"
+	
 }
 }
