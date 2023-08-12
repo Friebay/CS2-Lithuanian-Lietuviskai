@@ -346,12 +346,162 @@
 		"Cstrike_TitlesTXT_Game_join_terrorist_auto"						"%s1 prisijungė prie Teroristų. (automatiškai)"
 		"Cstrike_TitlesTXT_Game_teammate_attack"							"%s1 užpuolė komandos narį."
 		
-		"TSpawn"			"T Pradžia"
+		//---------------------------------------------------------------------------------------------------------------------
+		//
+		// New CZ strings start here and extend through the end of the file
+		//
+
+		// Place names used in bot chatter, and in location strings for player chat
+		
+		"BombsiteA"			"Bombavietė A"
+		"BombsiteB"			"Bombavietė B"
+		"BombsiteC"			"Bombavietė C"
+		"Hostages"			"Įkaitai"
+		"HostageRescueZone"	"Įkaitų gelbėjimo zona"
+		"VipRescueZone"		"VIP gelbėjimo zona"
+		"CTSpawn"			"CT pradžia"
+		"TSpawn"			"T pradžia"
+		"Bridge"			"Tiltas"
+		"Middle"			"Vidurys"
+		"House"				"Namas"
+		"Apartment"			"Apartamentai"
+		"Apartments"		"Apartamentai"
+		"Market"			"Turgus"
+		"Sewers"			"Kanalizacija"
+		"Tunnel"			"Tunelis"
+		"Ducts"				"Ortakiai"
+		"Village"			"Kaimas"
+		"Roof"				"Stogas"
+		"Upstairs"			"Viršutinis aukštas"
+		"Downstairs"		"Žemutiniame aukšte"
+		"Basement"			"Rūsys"
+		"Crawlspace"		"Pusrūsis"
+		"Kitchen"			"Virtuvė"
+		"Inside"			"Vidus"
+		"Outside"			"Išorė"
+		"Tower"				"Bokštas"
+		"WineCellar"		"Wine Cellar"
+		"Garage"			"Garage"
+		"Courtyard"			"Courtyard"
+		"Water"				"Water"
+		"FrontDoor"			"Front Door"
+		"BackDoor"			"Back Door"
+		"SideDoor"			"Side Door"
+		"BackWay"			"Back Way"
+		"FrontYard"			"Front Yard"
+		"BackYard"			"Back Yard"
+		"SideYard"			"Side Yard"
+		"Lobby"				"Lobby"
+		"Vault"				"Vault"
+		"Elevator"			"Elevator"
+		"DoubleDoors"		"Double Doors"
+		"SecurityDoors"		"Security Doors"
+		"LongHall"			"Long Hall"
+		"SideHall"			"Side Hall"
+		"FrontHall"			"Front Hall"
+		"BackHall"			"Back Hall"
+		"MainHall"			"Main Hall"
+		"FarSide"			"Far Side"
+		"Windows"			"Windows"
+		"Window"			"Window"
+		"Attic"				"Attic"
+		"StorageRoom"		"Storage Room"
+		"ProjectorRoom"		"Projector Room"
+		"MeetingRoom"		"Meeting Room"
+		"ConferenceRoom"	"Conference Room"
+		"ComputerRoom"		"Computer Room"
+		"BigOffice"			"Big Office"
+		"LittleOffice"		"Little Office"
+		"Dumpster"			"Dumpster"
+		"Airplane"			"Airplane"
+		"Underground"		"Underground"
+		"Bunker"			"Bunker"
+		"Mines"				"Mines"
+		"Front"				"Front"
+		"Back"				"Back"
+		"Rear"				"Rear"
+		"Side"				"Side"
+		"Ramp"				"Ramp"
+		"Underpass"			"Underpass"
+		"Overpass"			"Overpass"
+		"Stairs"			"Stairs"
+		"Ladder"			"Ladder"
+		"Gate"				"Gate"
+		"GateHouse"			"Gate House"
+		"LoadingDock"		"Loading Dock"
+		"GuardHouse"		"Guard House"
+		"Entrance"			"Entrance"
+		"VendingMachines"	"Vending Machines"
+		"Loft"				"Loft"
+		"Balcony"			"Balcony"
+		"Alley"				"Alley"
+		"BackAlley"			"Back Alley"
+		"SideAlley"			"Side Alley"
+		"FrontRoom"			"Front Room"
+		"BackRoom"			"Back Room"
+		"SideRoom"			"Side Room"
+		"Crates"			"Crates"
+		"Truck"				"Truck"
+		"Bedroom"			"Bedroom"
+		"FamilyRoom"		"Family Room"
+		"Bathroom"			"Bathroom"
+		"LivingRoom"		"Living Room"
+		"Den"				"Den"
+		"Office"			"Office"
+		"Atrium"			"Atrium"
+		"Entryway"			"Entryway"
+		"Foyer"				"Foyer"
+		"Stairwell"			"Stairwell"
+		"Fence"				"Fence"
+		"Deck"				"Deck"
+		"Porch"				"Porch"
+		"Patio"				"Patio"
+		"Wall"				"Wall"
+		"BoatBar"			"Boat Bar"
+		"BoatStorage"		"Boat Storage"
+		"CTBar"				"CT Bar"
+		"UpperCatwalks"		"Upper Catwalks"
+		"LowerCatwalks"		"Lower Catwalks"
+		"GroundLevel"		"Ground Level"
+		"LockerRoom"		"Locker Room"
+		"BackEntrance"		"Back Entrance"
+		"FrontEntrance"		"Front Entrance"
+		"SnipersNest"		"Sniper's Nest"
+		"BodyShop"			"Body Shop"
+		"BankInterior"		"Bank Interior"
+		"BombSite"			"Bombavietė"
+		"BankExterior"		"Bank Exterior"
+		"Street"			"Street"
+		"GasStation"		"Gas Station"
+		"SideEntrance"		"Side Entrance"
+		"PalaceInterior"	"Palace Interior"
+		"BackAlleys"		"Back Alleys"
+		"CTSideUpper"		"CT Side Upper"
+		"CTSideLower"		"CT Side Lower"
+		"TSideUpper"		"T Side Upper"
+		"TSideLower"		"T Side Lower"
+		"UpperCarousel"		"Upper Carousel"
+		"MidCarousel"		"Mid Carousel"
+		"LowerCarousel"		"Lower Carousel"
+		"CTCorridorDown"	"CT Corridor Down"
+		"CTCorridorUp"		"CT Corridor Up"
+		"TCorridorDown"		"T Corridor Down"
+		"TCorridorUp"		"T Corridor Up"
+		"LeftAlley"			"Left Alley"
+		"RightAlley"		"Right Alley"
+		"BackCourtyard"		"Back Courtyard"
+		"FrontCourtyard"	"Front Courtyard"
+		
 		
 		//1330
 		"Cstrike_Chat_CT_Dead"				"*MIRĘS*(Anti-Teroristai) %s1 :  %s2"
 		"Cstrike_Chat_T_Dead"				"*MIRĘS*(Teroristai) %s1 :  %s2"
 		"Cstrike_Name_Change"				"* %s1 pasikeitė vardą į %s2"
+		
+		//1357
+		"Cstrike_game_join_spectators"	"%s1 prisijungia prie žiūrovų\n"
+		"Cstrike_game_join_terrorist"	"%s1 prisijungia prie Teroristų pajėgų\n"
+		"Cstrike_game_join_ct"			"%s1 prisijungia prie Anti-Teroristų pajėgų\n"
 		
 		//1364
 		"SFUI_WPNHUD_Pistol"								"Pistoletai"
@@ -395,6 +545,8 @@
 		"SFUI_WPNHUD_knife_survival_bowie" 					"Bowie peilis"
 		"SFUI_WPNHUD_Healthshot"							"Medicininė injekcija"
 		"SFUI_WPNHUD_Snowball"								"Sniego gniužtė"
+		
+		
 		
 		//1387
 		"SFUI_WPNHUD_Knife"			"Peilis"
@@ -602,6 +754,13 @@
 		"CSGO_Inventory_Team_CT"							"Anti-Teroristai"
 		"CSGO_Inventory_Team_T"								"Teroristai"
 		
+		//29891
+		"SFUI_HelpMenu_SettingsButton"				"ŽAIDIMO NUSTATYMAI"	[$WIN32||$OSX]
+		"SFUI_HelpMenu_VideoSettings"				"VIDEO NUSTATYMAI"
+		"SFUI_HelpMenu_AudioSettings"				"GARSO NUSTATYMAI"
+		"SFUI_HelpMenu_CreditsButton"				"TITRAI"
+		
+		//30383
 		"CSGO_Collectible_GlobalGeneral2020"		"2020 m. tarnybos medalis"
 		"CSGO_Collectible_Desc_GlobalGeneral2020"	"Skiriama už išskirtinę tarnybą ir pasiekimus 2020 m."
 		
@@ -719,7 +878,7 @@
 		"Skirmish_CC_RT_name"			"Perimimas"
 		"Skirmish_CC_RT_rules"			"· Bomba buvo padėta!!\n· Perimkite arba apginkite bombavietę nuo priešininkų komandos.\n· Laimėk 8 raundus šiame geriausių iš 15.\n· 3 teroristai prieš 4 anti-teroristus.\n· Pasirinkite rinkinį naudodami rinkinių korteles.\n· Patobulinkite savo ekipuotę laimėdami raundo MVP.\n· Ginklai ir ekipuotė neperkeliami iš vieno raundo į kitą."
 		"Skirmish_CC_RT_desc"			"· Bomba buvo padėta!<br>· Perimkite arba apginkite bombavietę nuo priešininkų komandos<br>· Pasirinkite ekipuotę naudodami ekipuočių korteles"
-		"Skirmish_CC_RT_details"		"Retake or defend the bomb site from the opposing team! Choose your loadout carefully!"
+		"Skirmish_CC_RT_details"		"Atsiimkite arba apginkite bombavietę nuo priešininkų komandos! Atidžiai pasirinkite savo ekipuotę!"
 
 		
 		
@@ -1240,9 +1399,7 @@
 		
 	// JOIN MESSAGE (CHAT)
 	
-		"Cstrike_game_join_spectators"						"%s1 > Žiūrovai\n"
-		"Cstrike_game_join_terrorist"						"%s1 > 	T\n"
-		"Cstrike_game_join_ct"								"%s1 > CT\n"
+		
 		
 	// TEAM ATTACK MESSAGE (CHAT)
 	
