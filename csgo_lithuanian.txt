@@ -338,7 +338,15 @@
 		"Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit"	"Nukenksminamas sprogmuo BE įrankių rinkinio."
 		"Cstrike_TitlesTXT_Bomb_Already_Being_Defused"			"Sprogmuo jau yra nukenksminamas."
 		
+		//881
+		"Cstrike_TitlesTXT_Game_Commencing"									"Žaidimas prasideda."
+		"Cstrike_TitlesTXT_Game_join_ct"									"%s1 prisijungė prie Anti-Teroristų."
+		"Cstrike_TitlesTXT_Game_join_ct_auto"								"%s1 prisijungė prie Anti-Teroristų. (automatiškai)"
+		"Cstrike_TitlesTXT_Game_join_terrorist"								"%s1 prisijungė prie Teroristų."
+		"Cstrike_TitlesTXT_Game_join_terrorist_auto"						"%s1 prisijungė prie Teroristų. (automatiškai)"
 		"Cstrike_TitlesTXT_Game_teammate_attack"							"%s1 užpuolė komandos narį."
+		
+		"TSpawn"			"T Pradžia"
 		
 		//1330
 		"Cstrike_Chat_CT_Dead"				"*MIRĘS*(Anti-Teroristai) %s1 :  %s2"
@@ -594,6 +602,9 @@
 		"CSGO_Inventory_Team_CT"							"Anti-Teroristai"
 		"CSGO_Inventory_Team_T"								"Teroristai"
 		
+		"CSGO_Collectible_GlobalGeneral2020"		"2020 m. tarnybos medalis"
+		"CSGO_Collectible_Desc_GlobalGeneral2020"	"Skiriama už išskirtinę tarnybą ir pasiekimus 2020 m."
+		
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//HUD: Help/Medals/Defuse Info Panel
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -645,6 +656,18 @@
 		
 		//31664
 		"SFUI_KnifeSlot"				"Peilis"
+		
+		"SFUI_Settings_Network_Bandwidth_Min"	   "Labai suvaržyta"
+		"SFUI_Settings_Network_Bandwidth_384kbps" "Žemiau 384 kbps"
+		"SFUI_Settings_Network_Bandwidth_512kbps" "Žemiau 512 kbps"
+		"SFUI_Settings_Network_Bandwidth_768kbps" "Žemiau 768 kbps"
+		"SFUI_Settings_Network_Bandwidth_1024kbps" "Žemiau 1,0 Mbps"
+		"SFUI_Settings_Network_Bandwidth_1536kbps" "Iki 1,5 Mbps"
+		"SFUI_Settings_Network_Bandwidth_20mbps" "Iki 2,0 Mbps"
+		"SFUI_Settings_Network_Bandwidth_25mbps" "Iki 2,5 Mbps"
+		"SFUI_Settings_Network_Bandwidth_30mbps" "3 Mbps"
+		"SFUI_Settings_Network_Bandwidth_40mbps" "4 Mbps"
+		"SFUI_Settings_Network_Bandwidth_Max" "Nesuvaržyta"
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	//Buy Menu
@@ -958,6 +981,12 @@
 
 		"CSGO_FriendsCountLabel"							"{d:num_friends} Prisijungę"
 		
+		//38479
+		"Survival_TeammateRespawned"						"Komandos narys atgimė!"
+		"Survival_RespawnEndWarning"						"Atgimimo pabaiga po {t:d:timeleft}"
+		"Survival_RespawningDisabled"						"Daugiau jokių atgimimų!"
+		"Survival_Respawn_Cooldown_Too_Long"				"Daugiau jokių atgimimų!"
+		
 		//38862
 		"playerstats_link"						"Tvarkyti prenumeratą"
 		"playerstats_link_reactivate"			"Atnaujinti prenumeratą"
@@ -1082,14 +1111,14 @@
 		"play_setting_gamemodeflags_deathmatch_4"			"Komanda prieš komandą"
 		"play_settings_deathmatch_dialog_title"				"Mirties rungtynių stilius"
 		"play_settings_deathmatch_dialog_desc"				"Pasirinkite jūsų norimą Mirties Mūšio stilių."
-		"play_settings_deathmatch_dialog_32"				"Kiekvienas Už Save"
+		"play_settings_deathmatch_dialog_32"				"Kiekvienas už save"
 		"play_settings_deathmatch_dialog_32_desc"			"Individualus rezultatas, kiekvinas yra taikinys"
 		"play_settings_deathmatch_dialog_16"				"Klasikinis"
 		"play_settings_deathmatch_dialog_16_desc"			"Individualus rezultatas, kitos komanda yra taikinys"
-		"play_settings_deathmatch_dialog_4"					"Komanda Prieš Komandą"
+		"play_settings_deathmatch_dialog_4"					"Komanda prieš Komandą"
 		"play_settings_deathmatch_dialog_4_desc"			"Komandinis rezultatas, kita komanda yra taikinys"
-		"play_settings_deathmatch_tooltip"					"Mirties Rungtynių stilius"
-		"DirectChallenge"									"Privati Eilė"
+		"play_settings_deathmatch_tooltip"					"Mirties tungtynių stilius"
+		"DirectChallenge"									"Privati eilė"
 		"DirectChallenge_lobbysettings_on"					"Privati eilė" 
 		"permissions_open_party"							"Atviras Vakarėlis"
 
@@ -1109,8 +1138,8 @@
 		"CSGO_Workshop_Mode_retakes"						"Perimimas"
 		"CSGO_Workshop_Mode_dm_freeforall"					"Kiekvienas Už Save"
 		"CSGO_Workshop_No_Maps"								"You are not subscribed to any maps.<br><br>Visit the Steam Workshop to find new maps and experiences!"
-		"CSGO_Workshop_Visit"								"Aplankykite Dirbtuvę"
-		"CSGO_Workshop_Search_Placeholder"					"Filtruoti Žemėlapius"
+		"CSGO_Workshop_Visit"								"Aplankykite dirbtuvę"
+		"CSGO_Workshop_Search_Placeholder"					"Filtruoti žemėlapius"
 		"CSGO_Workshop_Mode_Select_Title"					"Pasirinkite Režimą"
 
 	// PRIME MATCHDRAFT
@@ -1851,16 +1880,9 @@
 		"teamname_TERRORIST"								"TERORISTAI"
 		"teamname_CT"										"ANTI-TERORISTAI"
 		"teamname_Spectator"								"ŽIŪROVAI"
-
-	// DANGER ZONE
-	
 		
 		
-	// DANGER ZONE SURVIVAL RESPAWN
-		"Survival_TeammateRespawned"						"Komandos narys atgimė!"
-		"Survival_RespawnEndWarning"						"Atgimimo pabaiga po {t:d:timeleft}"
-		"Survival_RespawningDisabled"						"Daugiau jokių atgimimų!"
-		"Survival_Respawn_Cooldown_Too_Long"				"Daugiau jokių atgimimų!"
+		
 		
 	
 }
