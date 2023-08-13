@@ -208,6 +208,7 @@
 		"Button_Model" "Modelis"
 		"Button_Musickit" "Muzikos rinkinys"
 		"Button_All" "Visi"
+		"Cancel_Button"					"Atšaukti"
 		
 		"GameUI_Yes"					"Taip"
 		"GameUI_No"						"Ne"
@@ -245,6 +246,16 @@
 	//742
 	"Console_Title"		"Konsolė"
 	"Console_Submit"	"Pateikti"
+	
+	"FileOpenDialog_Open"		"Atidaryti"
+	"FileOpenDialog_Save"		"Išsaugoti"
+	"FileOpenDialog_Select"		"Pasirinkti"
+	"FileOpenDialog_Cancel"		"Atšaukti"
+	
+	"vgui_ok"			"Gerai"
+	"vgui_close"			"Uždaryti"
+	"vgui_Cancel"			"Atšaukti"
+	"vgui_select"			"Pasirinkti"
 	
 // vgui_english.txt
 // ---------------------------------------------------------------------------------------------
@@ -546,8 +557,6 @@
 		"SFUI_WPNHUD_Healthshot"							"Medicininė injekcija"
 		"SFUI_WPNHUD_Snowball"								"Sniego gniužtė"
 		
-		
-		
 		//1387
 		"SFUI_WPNHUD_Knife"			"Peilis"
 		"SFUI_WPNHUD_Knife_T"		"Peilis"
@@ -587,6 +596,11 @@
 		"winpanel_mvp_award_gungame"	"Ginklavimosi varžybų nugalėtojas: %s1"
 		"winpanel_mvp_survivor"			"%s1 yra nugalėtojas ir vienintelis išgyvenęs žmogus!"
 		
+		
+		//2228
+		"CancelDeleteItem"		"ATŠAUKTI"
+		"YesDeleteItem"			"TAIP, IŠMESTI"
+		
 		// Loadout slots
 		
 		//2253
@@ -606,6 +620,7 @@
 		"LoadoutSlot_Spray0"								"Grafičiai"
 		"LoadoutSlot_customplayer"							"Agentai"
 		
+		//2269
 		"LoadoutSlot_MusicKit"								"Muzikos rinkiniai"
 
 		// Weapon Rarity Names
@@ -674,6 +689,51 @@
 		"TF_Tag_Category_Quality"	"Kategorija"
 		"Tag_Category_Rarity"		"Kokybė"
 		
+		"P2Econ_CANCEL"					"ATŠAUKTI"
+		
+		//27723
+		"Cancel"						"Atšaukti"
+		
+		// game mode names
+
+		//27827
+		"SFUI_GameMode"										"Režimas"
+		"SFUI_GameModeClassic"								"Klasikinis"
+		"SFUI_GameModeCasual"								"Paprastas"
+		"SFUI_GameModeCompetitiveSP"						"Konkurencija"
+		"SFUI_GameModeCompetitive"							"Konkurencija"
+		"SFUI_GameModeCompetitiveTeams"						"Pirmaeilė konkurencija"
+		"SFUI_GameModeSurvival"								"Pavojaus zona"
+		"SFUI_GameModeScrimComp2v2"							"Sparnininkas"
+		"SFUI_GameModeScrimComp5v5"							"Ginklų ekspertas"
+		"SFUI_GameModeSkirmish"								"Karo Žaidimai"
+		"SFUI_GameModeTraining"								"Treniruotė"
+		"SFUI_Deathmatch"									"Mirties Rungtynės"
+		"SFUI_Cooperative"									"Sargybinis"
+		"SFUI_CoopMission"									"Co-op Strike"
+		"SFUI_GameModeCustom"								"Pasirinktinis"
+		"SFUI_GameModeAll"									"Visi vemėlapiai"
+		"SFUI_GameModeAny"									"Bet koks režimas"
+		"SFUI_GameModeGungameProgressive"					"Ginklavimosi varžybos"
+		"SFUI_GameModeGungameTrBomb"						"Griovimas"
+		"SFUI_GameModeDeathmatch"							"Mirties rungtynės"
+		"SFUI_GameModeRetakes"								"Perimimas"
+		"SFUI_GameModeDM_FreeForAll"						"Kiekvienas už save"
+
+		"SFUI_GameMode_casual"								"Klasikinis"
+		"SFUI_GameMode_competitive"							"Konkurencija"
+		"SFUI_GameMode_scrimcomp2v2"						"Sparnininkas"
+		"SFUI_GameMode_scrimcomp5v5"						"Ginklų Ekspertas"
+		"SFUI_GameMode_skirmish"							"Karo Žaidimas"
+		"SFUI_GameMode_training"							"Treniruotė"
+		"SFUI_GameMode_gungameProgressive"					"Ginklų Ekspertas"
+		"SFUI_GameMode_GungameTrBomb"						"Griovimas"
+		"SFUI_GameMode_deathmatch"							"Mirties Rungtynės"
+		"SFUI_GameMode_cooperative"							"Sargybinis"
+		"SFUI_GameMode_coopmission"							"Co-op Strike"
+		"SFUI_GameMode_Survival"							"Pavojaus Zona"
+		"SFUI_GameMode_custom"								"Pasirinktinis"
+		
 		// nice map group names
 		
 		//27975
@@ -701,6 +761,9 @@
 		
 		//28822
 		"SFUI_InvTooltip_melee"								"Peilis"
+		
+		//29013
+		"SFUI_Crafting_Cancel"				"Atšaukti"
 	
 	
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -763,6 +826,18 @@
 		//30383
 		"CSGO_Collectible_GlobalGeneral2020"		"2020 m. tarnybos medalis"
 		"CSGO_Collectible_Desc_GlobalGeneral2020"	"Skiriama už išskirtinę tarnybą ir pasiekimus 2020 m."
+		
+		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		//Message Box
+		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+		//30549
+		"SFUI_MBox_OKButton"		"Gerai"
+		"SFUI_MBox_CancelButton"	"Atšaukti"
+		
+		//30662
+		"SFUI_PlayerDetails_Cancel"		"ATŠAUKTI"
+		
 		
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//HUD: Help/Medals/Defuse Info Panel
@@ -860,6 +935,11 @@
 		//32797
 		"SFUI_QMM_State_find_searching"				"Ieškome žaidėjų ir serverių..."
 		
+		"SFUI_LobbyBrowser_Join"		"PRISIJUNGTI"
+		"SFUI_LobbyBrowser_Back"		"GRĮŽTI"
+		"SFUI_LobbyBrowser_CreateLobby"		"SUKURTI FOJĖ"
+		"SFUI_LobbyBrowser_Custom"			"PASIRINKTINIS"
+		
 		//33216
 		"SFUI_Lobby_StatusInvited"			"<font color='#4F6782'>Invited</font>"
 		"SFUI_Lobby_StatusInLobby"			"Fojė"
@@ -874,12 +954,16 @@
 		"SFUI_Lobby_StatusBusy"				"Užimtas"
 		"SFUI_Lobby_StatusAway"				"Išvykęs"
 		
+		//34791
+		"Player_DisconnectReason_Kicked"					"Išmestas iš sesijos"
+		
 		//35307
 		"Skirmish_CC_RT_name"			"Perimimas"
 		"Skirmish_CC_RT_rules"			"· Bomba buvo padėta!!\n· Perimkite arba apginkite bombavietę nuo priešininkų komandos.\n· Laimėk 8 raundus šiame geriausių iš 15.\n· 3 teroristai prieš 4 anti-teroristus.\n· Pasirinkite rinkinį naudodami rinkinių korteles.\n· Patobulinkite savo ekipuotę laimėdami raundo MVP.\n· Ginklai ir ekipuotė neperkeliami iš vieno raundo į kitą."
 		"Skirmish_CC_RT_desc"			"· Bomba buvo padėta!<br>· Perimkite arba apginkite bombavietę nuo priešininkų komandos<br>· Pasirinkite ekipuotę naudodami ekipuočių korteles"
 		"Skirmish_CC_RT_details"		"Atsiimkite arba apginkite bombavietę nuo priešininkų komandos! Atidžiai pasirinkite savo ekipuotę!"
 
+	
 		
 		
 		//////////////////////////////////////////////////////////////////////////////////////////
@@ -887,6 +971,12 @@
 		// Panorama localization
 		//
 		//
+		
+	//36169
+	"UI_Cancel"		"ATŠAUKTI"
+	"UI_Dismiss" 	"ATSISAKYTI"
+	"UI_OK"		"GERAI"
+	"UI_Done"	"ATLIKTA"
 	
 	//36219
 	"UI_ConfirmExitTitle"			"Patvirtinti išėjimą"
@@ -1260,7 +1350,7 @@
 		"play_settings_competitive_dialog_32"				"Trumpas žaidimas"
 		"play_settings_competitive_dialog_32_desc"			"Laimėkite 9 raundus, kad laimėti žaidimą"
 		"play_settings_competitive_dialog_16"				"Ilgas Žaidimas"
-		"play_settings_competitive_dialog_16_desc"			"Laimėkite 16 raunų, kad laimėti žaidimą (klasikinis)"
+		"play_settings_competitive_dialog_16_desc"			"Laimėkite 16 raundų, kad laimėti žaidimą (klasikinis)"
 		"play_settings_competitive_tooltip"					"Žaidimo trukmės nustatymas"
 
 	// DM STYLE
@@ -1279,7 +1369,7 @@
 		"play_settings_deathmatch_tooltip"					"Mirties tungtynių stilius"
 		"DirectChallenge"									"Privati eilė"
 		"DirectChallenge_lobbysettings_on"					"Privati eilė" 
-		"permissions_open_party"							"Atviras Vakarėlis"
+		"permissions_open_party"							"Atviras vakarėlis"
 
 	// WORKSHOP TAB
 		"CSGO_Workshop_Mode_classic"						"Klasikinis"
@@ -1290,7 +1380,7 @@
 		"CSGO_Workshop_Mode_deathmatch"						"Mirties Rungtynės"
 		"CSGO_Workshop_Mode_training"						"Treniruotė"
 		"CSGO_Workshop_Mode_coopstrike"						"Kooperacinis smūgis"
-		"CSGO_Workshop_Mode_custom"							"Custom"
+		"CSGO_Workshop_Mode_custom"							"Pasirinktinis"
 		"CSGO_Workshop_Mode_armsrace"						"Ginklavimosi Rungtynės"
 		"CSGO_Workshop_Mode_demolition"						"Griovimas"
 		"CSGO_Workshop_Mode_flyingscoutsman"				"Skraidantis Žvalgas"
@@ -1299,7 +1389,7 @@
 		"CSGO_Workshop_No_Maps"								"You are not subscribed to any maps.<br><br>Visit the Steam Workshop to find new maps and experiences!"
 		"CSGO_Workshop_Visit"								"Aplankykite dirbtuvę"
 		"CSGO_Workshop_Search_Placeholder"					"Filtruoti žemėlapius"
-		"CSGO_Workshop_Mode_Select_Title"					"Pasirinkite Režimą"
+		"CSGO_Workshop_Mode_Select_Title"					"Pasirinkite režimą"
 
 	// PRIME MATCHDRAFT
 		"matchdraft_phase_1"								"Rinkitės Pirmas Arba Praleiskite Eilę"
@@ -1422,17 +1512,20 @@
 		"Player_Cash_Award_ExplainSuicide_TeammateGotCash"	"Komandos narys %s3 buvo paskirtas +$%s2 premiją už %s1 savižudybę."
 		"Player_Cash_Award_ExplainSuicide_EnemyGotCash"		"Priešininkas buvo paskirtas premiją už %s1 savižudybę."
 		"Player_Cash_Award_ExplainSuicide_Spectators"		" %s3 buvo paskirtas +$%s2 premiją už %s1 savižudybę."
-		"Player_Cash_Award_Kill_Teammate"					"-$%s1 • Teamkill"
-		"Player_Cash_Award_Killed_Enemy_Generic" 			"+$%s1 • Nužudymas"
-		"Player_Cash_Award_Killed_Enemy"					"+$%s1 • %s2"
-		"Player_Cash_Award_Bomb_Planted"					"+$%s1 • Sprogmuo užtaisytas"
-		"Player_Cash_Award_Bomb_Defused"					"+$%s1 • Sprogmuo nukenksmintas"
-		"Player_Cash_Award_Rescued_Hostage"					"+$%s1 • Įkaitas išgelbėtas"
-		"Player_Cash_Award_Interact_Hostage"				"+$%s1 • Įkaitas pasiektas"
-		"Player_Cash_Award_Respawn"							"+$%s1 • Atgimimas"
-		"Player_Cash_Award_Get_Killed"						"+$%s1 • Premija už buvimą išnaikintam"
-		"Player_Cash_Award_Damage_Hostage"					"+$%s1 • Įkaitas sužalotas"
-		"Player_Cash_Award_Kill_Hostage"					"+$%s1 • Įkaitas nužudytas"		
+		
+		"Player_Cash_Award_Kill_Teammate"		" -$%s1: Bausmė už draugo nužudymą."
+		"Player_Cash_Award_Killed_VIP"			" +$%s1: Apdovanojimas už VIP neutralizavimą."
+		"Player_Cash_Award_Killed_Enemy_Generic" " +$%s1: Apdovanojimas už priešo neutralizavimą."
+		"Player_Cash_Award_Killed_Enemy"		" +$%s1: Apdovanojimas už priešo neutralizavimą su %s2."
+		"Player_Cash_Award_Bomb_Planted"		" +$%s1: Apdovanojimas už C4 padėjimą."
+		"Player_Cash_Award_Bomb_Defused"		" +$%s1: Apdovanojimas už C4 nukenksminimą."
+		"Player_Cash_Award_Rescued_Hostage"		" +$%s1: Apdovanojimas už įkaito išlaisvinimą."
+		"Player_Cash_Award_Interact_Hostage"	" +$%s1: Apdovanojimas už įkaito pasiekimą."
+		"Player_Cash_Award_Respawn"				" +$%s1: Apdovanojimas už atgimimą."
+		"Player_Cash_Award_Get_Killed"			" +$%s1: Apdovanojimas už tai, kad buvoote eliminuotas"
+		"Player_Cash_Award_Damage_Hostage"		" -$%s1: Bausmė už įkaito sužeidimą."
+		"Player_Cash_Award_Kill_Hostage"		" -$%s1: Bausmė už įkaito nužudymą."
+		
 		"Team_Cash_Award_T_Win_Bomb"						"+$%s1 • Sprogmuo susprogo"
 		"Team_Cash_Award_Elim_Hostage"						"+$%s1 • Komandos sunaikinta"
 		"Team_Cash_Award_Elim_Bomb"							"+$%s1 • Komanda sunaikinta"
@@ -1541,45 +1634,7 @@
 		"SFUI_Lobby_SearchTitle_OngoingMatches"				"Vykstančios rungtynės... %s1"
 		"SFUI_Lobby_SearchTitle_PlayersOnline"				"Prisijungę žaidėjai... %s1"
 
-		// game mode names
-
-		//27827
-		"SFUI_GameMode"										"Režimas"
-		"SFUI_GameModeClassic"								"Klasikinis"
-		"SFUI_GameModeCasual"								"Paprastas"
-		"SFUI_GameModeCompetitiveSP"						"Konkurencija"
-		"SFUI_GameModeCompetitive"							"Konkurencija"
-		"SFUI_GameModeCompetitiveTeams"						"Pirmaeilė Konkurencija"
-		"SFUI_GameModeSurvival"								"Pavojaus Zona"
-		"SFUI_GameModeScrimComp2v2"							"Sparnininkas"
-		"SFUI_GameModeScrimComp5v5"							"Ginklų Ekspertas"
-		"SFUI_GameModeSkirmish"								"Karo Žaidimai"
-		"SFUI_GameModeTraining"								"Treniruotė"
-		"SFUI_Deathmatch"									"Mirties Rungtynės"
-		"SFUI_Cooperative"									"Sargybinis"
-		"SFUI_CoopMission"									"Co-op Strike"
-		"SFUI_GameModeCustom"								"Custom"
-		"SFUI_GameModeAll"									"Visi Žemėlapiai"
-		"SFUI_GameModeAny"									"Bet Koks Režimas"
-		"SFUI_GameModeGungameProgressive"					"Ginklavimosi Varžybos"
-		"SFUI_GameModeGungameTrBomb"						"Griovimas"
-		"SFUI_GameModeDeathmatch"							"Mirties Rungtynės"
-		"SFUI_GameModeRetakes"								"Perimimas"
-		"SFUI_GameModeDM_FreeForAll"						"Kiekvienas už Save"
-
-		"SFUI_GameMode_casual"								"Klasikinis"
-		"SFUI_GameMode_competitive"							"Konkurencija"
-		"SFUI_GameMode_scrimcomp2v2"						"Sparnininkas"
-		"SFUI_GameMode_scrimcomp5v5"						"Ginklų Ekspertas"
-		"SFUI_GameMode_skirmish"							"Karo Žaidimas"
-		"SFUI_GameMode_training"							"Treniruotė"
-		"SFUI_GameMode_gungameProgressive"					"Ginklų Ekspertas"
-		"SFUI_GameMode_GungameTrBomb"						"Griovimas"
-		"SFUI_GameMode_deathmatch"							"Mirties Rungtynės"
-		"SFUI_GameMode_cooperative"							"Sargybinis"
-		"SFUI_GameMode_coopmission"							"Co-op Strike"
-		"SFUI_GameMode_Survival"							"Pavojaus Zona"
-		"SFUI_GameMode_custom"								"Pasirinktinis"
+		
 
 		"SFUI_GameModeGGProgressive"						"Ginklavimosi Varžybos"
 		"SFUI_GameModeGGBomb"								"Griovimas"
@@ -1904,7 +1959,13 @@
 
 
 		// Store Categories
+		
+		//27579
 		"Store_Price_New"		"NAUJIENA!"
+		
+		"Store_CANCEL"			"ATŠAUKTI"
+		"Store_NowAvailable"	"DABAR PRIEINAMA"
+		
 
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	//HUD: Help/Medals/Defuse Info Panel
