@@ -957,6 +957,11 @@
 		//34791
 		"Player_DisconnectReason_Kicked"					"Išmestas iš sesijos"
 		
+		"Skirmish_CC_FS_name"			"Skraidantis žvalgas"
+		"Skirmish_CC_FS_rules"			"· Galima naudoti tik SSG08 ir peilį.\n· Gravitacija sumažinta.\n· Padidintas tikslumas.\n· Laimėkite raundus įvykdę žemėlapio tikslą.\n"
+		"Skirmish_CC_FS_desc"			"· Galima naudoti tik SSG08 ir peilį<br>· Gravitacija labai sumažinta<br>· Ginklų tikslumas labai padidintas"
+		"Skirmish_CC_FS_details"		"Pasinaudokite priedanga ir dideliu judrumu, kad nugalėtumėte šiame aukštai skraidančių snaiperių mūšyje."
+		
 		//35307
 		"Skirmish_CC_RT_name"			"Perimimas"
 		"Skirmish_CC_RT_rules"			"· Bomba buvo padėta!!\n· Perimkite arba apginkite bombavietę nuo priešininkų komandos.\n· Laimėk 8 raundus šiame geriausių iš 15.\n· 3 teroristai prieš 4 anti-teroristus.\n· Pasirinkite rinkinį naudodami rinkinių korteles.\n· Patobulinkite savo ekipuotę laimėdami raundo MVP.\n· Ginklai ir ekipuotė neperkeliami iš vieno raundo į kitą."
@@ -1383,7 +1388,7 @@
 		"CSGO_Workshop_Mode_custom"							"Pasirinktinis"
 		"CSGO_Workshop_Mode_armsrace"						"Ginklavimosi Rungtynės"
 		"CSGO_Workshop_Mode_demolition"						"Griovimas"
-		"CSGO_Workshop_Mode_flyingscoutsman"				"Skraidantis Žvalgas"
+		"CSGO_Workshop_Mode_flyingscoutsman"				"Skraidantis žvalgas"
 		"CSGO_Workshop_Mode_retakes"						"Perimimas"
 		"CSGO_Workshop_Mode_dm_freeforall"					"Kiekvienas Už Save"
 		"CSGO_Workshop_No_Maps"								"You are not subscribed to any maps.<br><br>Visit the Steam Workshop to find new maps and experiences!"
@@ -1682,15 +1687,15 @@
 		"no_maps_selected_text"								"Pasirinkite bent vieną žemėlapį ar žemėlapių grupę."
 
 
-		"advertising_for_hire_tooltip_title" 				"Ieškoma Žaidėjų"
+		"advertising_for_hire_tooltip_title" 				"Ieškoma žaidėjų"
 		"advertising_for_hire_tooltip"						"Leidžia netoliese esantiems žaidėjams kviesti jus į komandą"
 		"advertising_for_hire_tooltip_disabled"				"Neleidžiama įjungti „Ieškoma Žaidėjų“ kol esate komandoje"
-		"advertising_for_hire_stop_looking"					"Nustoti Ieškoti"
-		"advertising_for_hire_open_friends_list"			"Surasti Žaidėją"
+		"advertising_for_hire_stop_looking"					"Nustoti ieškoti"
+		"advertising_for_hire_open_friends_list"			"Surasti žaidėją"
 
-		"elevated_status_toggle_prime_only"					"Reitinguojami Žaidimai"
-		"elevated_status_toggle_prime_all"					"Nereitinguojami Žaidimai"
-		"elevated_status_toggle_non_prime"					"Svarbiausias Įjungtas"
+		"elevated_status_toggle_prime_only"					"Reitinguojami žaidimai"
+		"elevated_status_toggle_prime_all"					"Nereitinguojami žaidimai"
+		"elevated_status_toggle_non_prime"					"Svarbiausias 5jungtas"
 
 
 		"SFUI_T_Label"										"TERORISTAI"
@@ -1723,13 +1728,13 @@
 	
 	//	BOT TYPE NAMES
 	
-		"SFUI_BotDifficulty"								"Botų Sunkumas"
-		"SFUI_BotDifficulty0"								"Jokių Botų"
-		"SFUI_BotDifficulty1"								"Nekenksmingi Botai"
-		"SFUI_BotDifficulty2"								"Lengvi Botai"
-		"SFUI_BotDifficulty3"								"Vidutiniai Botai"
-		"SFUI_BotDifficulty4"								"Sunkūs Botai"
-		"SFUI_BotDifficulty5"								"Ekspertai Botai"
+		"SFUI_BotDifficulty"								"Botų sunkumas"
+		"SFUI_BotDifficulty0"								"Jokių botų"
+		"SFUI_BotDifficulty1"								"Nekenksmingi botai"
+		"SFUI_BotDifficulty2"								"Lengvi botai"
+		"SFUI_BotDifficulty3"								"Vidutiniai botai"
+		"SFUI_BotDifficulty4"								"Sunkūs botai"
+		"SFUI_BotDifficulty5"								"Ekspertai botai"
 
 		"SFUI_InvPanel_Loadout_Title"						"Ekipuotė"
 		"SFUI_InvPanel_Inventory_Title"						"Inventorius"
