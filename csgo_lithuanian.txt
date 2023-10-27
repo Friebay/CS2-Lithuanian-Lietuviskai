@@ -3,6 +3,7 @@
 "Language" "Lithuanian"
 "Tokens"
 {
+
 // ---------------------------------------------------------------------------------------------
 // GAMEUI_ENGLISH.txt
 
@@ -16,7 +17,7 @@
 		"GameUI_CrosshairBehavior"	"Taikiklio elgesys"
 		"GameUI_CrosshairBehaviorStatic"	"Statinis"
 		"GameUI_CrosshairBehaviorDynamic"	"Dinaminis"
-		
+
 		"GameUI_FriendlyWarning"		"Įspėjimas apie draugišką apšaudymą"
 		"GameUI_FriendlyWarning_Desc"	"Rodyti įspėjimą taikiklyje, kai nusitaikoma į komandos narį."
 
@@ -32,7 +33,6 @@
 		"GameUI_CrosshairFriendlyWarning_Off"	"Visada išjungta"
 		"GameUI_CrosshairFriendlyWarning_Default" "Tik ant numatytojo taikiklio"
 		"GameUI_CrosshairFriendlyWarning_On"	"Visada įjungta"
-
 
 
 		"GameUI_CrosshairIFF"	"Taikiklio ID"
@@ -114,6 +114,7 @@
 		"GameUI_SaveAs" "Išsaugoti kaip..."
 		"GameUI_Refresh" "Atnaujinti"
 		"GameUI_OpenFile" "Atidaryti failą"
+		"GameUI_ClaimRewards"	"Susirinkti apdovanojimus"
 		
 		"GameUI_Category_HudOptions" "HUD PARINKTYS"
 		"GameUI_Category_TeamOptions" "KOMANDOS PARINKTYS"
@@ -125,8 +126,9 @@
 		"GameUI_Category_AdvancedVideo" "IŠPLĖSTINĖS VAIZDO PARINKTYS"
 		"GameUI_Category_MyMusic" "MUZIKOS PARINKTYS"
 		
+		//testi tikrinima nuo cia
+		
 		"GameUI_Disconnect_DifferentClassTables" "Serveris naudoja skirtingas klasių lenteles."
-		"GameUI_Disconnect_ConnectionClosing" "Ryšio uždarymas."
 		"GameUI_Disconnect_User" "Vartotojas nutraukė ryšį."
 		"GameUI_Disconnect_Server" "Serveris nutraukė ryšį."
 		"GameUI_Disconnect_ConnectionLost" "Ryšys prarastas."
