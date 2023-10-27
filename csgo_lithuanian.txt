@@ -126,8 +126,6 @@
 		"GameUI_Category_AdvancedVideo" "IŠPLĖSTINĖS VAIZDO PARINKTYS"
 		"GameUI_Category_MyMusic" "MUZIKOS PARINKTYS"
 		
-		//testi tikrinima nuo cia
-		
 		"GameUI_Disconnect_DifferentClassTables" "Serveris naudoja skirtingas klasių lenteles."
 		"GameUI_Disconnect_User" "Vartotojas nutraukė ryšį."
 		"GameUI_Disconnect_Server" "Serveris nutraukė ryšį."
@@ -139,16 +137,18 @@
 		"GameUI_Disconnect_HLTVDirect" "SourceTV negali tiesiogiai prisijungti prie žaidimo."
 		"GameUI_Disconnect_PureServer_ClientExtra" "Grynasis serveris: klientas įkėlė papildomą (-us) failą (-us)."
 		"GameUI_Disconnect_PureServer_Mismatch" "Grynasis serveris: kliento failas neatitinka server.\n\nhttps://support.steampowered.com/kb_article.php?ref=8285-YOAZ-6049"
-		"GameUI_Disconnect_PureServer_Mismatch_WithParam" "Grynasis serveris: kliento failas neatitinka serverio.\n\nhttps://support.steampowered.com/kb_article.php?ref=8285-YOAZ-6049\n\nNesuderintas failas: %s1"
 		"GameUI_Disconnect_UserCmd" "Klaida analizuojant vartotojo komandas."
-		"GameUI_Disconnect_RejectedByGame" "Žaidimas atmetė ryšį."
-		"GameUI_Disconnect_ConnectionTooLossy" "Per didelis paketų praradimas."
-		"GameUI_Disconnect_Kicked" "Serveris nutraukė ryšį."
-		"GameUI_Disconnect_TooManyCommands" "Išduota per daug komandų serveriui."
-		"GameUI_Disconnect_DeltaEntMessage" "Per daug subjektų serveryje."
-		"GameUI_Disconnect_TickMessage" "Serveriui nepavyko įrašyti kliento pažymėjimo pranešimo."
+		"GameUI_Disconnect_RejectedByGame" 			"Žaidimas atmetė ryšį."
+		"GameUI_Disconnect_MessageParseError"		"Nepavyko išanalizuoti pranešimo."
+		"GameUI_Disconnect_InvalidMessageError"		"Pranešimas yra neteisingas."
+		"GameUI_Disconnect_Kicked" 					"Serveris nutraukė ryšį."
+		"GameUI_Disconnect_DeltaEntMessage" 		"Per daug subjektų serveryje."
+		"GameUI_Disconnect_TempEntMessage"			"Serveryje yra per daug laikinų subjektų."
+		"GameUI_Disconnect_TickMessage" 			"Serveriui nepavyko įrašyti kliento pažymėjimo pranešimo."
 		
 		"GameUI_Disconnect_ConnectionTimedout"		"Nepavyksta užmegzti ryšio su serveriu."
+		"GameUI_Disconnect_TimedOut"				"Nepavyksta užmegzti ryšio su serveriu."
+		
 		
 		"GameUI_Disconnect_LocalProblem_ManyRelays" "Prarastas ryšys, net ir išbandžius keletą retransliatorių skirtingose geografinėse vietovėse. Labiausiai tikėtina priežastis - interneto ryšio problemos."
 		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay" "Žaidimų serveris prarado ryšį su pagrindine retransliavimo linija, kurią naudojo klientas."
