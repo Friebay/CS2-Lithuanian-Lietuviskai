@@ -149,7 +149,6 @@
 		"GameUI_Disconnect_ConnectionTimedout"		"Nepavyksta užmegzti ryšio su serveriu."
 		"GameUI_Disconnect_TimedOut"				"Nepavyksta užmegzti ryšio su serveriu."
 		
-		
 		"GameUI_Disconnect_LocalProblem_ManyRelays" "Prarastas ryšys, net ir išbandžius keletą retransliatorių skirtingose geografinėse vietovėse. Labiausiai tikėtina priežastis - interneto ryšio problemos."
 		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay" "Žaidimų serveris prarado ryšį su pagrindine retransliavimo linija, kurią naudojo klientas."
 		"GameUI_Disconnect_LocalProblem_NetworkConfig" "Patikrinkite savo interneto ryšį. Nepavyko atsisiųsti tinklo konfigūracijos iš CDN."
@@ -160,8 +159,7 @@
 		"GameUI_Disconnect_RemoteProblem_Other" "Problema bendraujant su nuotoliniu serveriu."
 		"GameUI_Disconnect_RemoteProblem_BadCrypt" "Nuotolinis serveris pateikė blogą sertifikatą arba yra netinkamai sukonfigūruotas."
 		"GameUI_Disconnect_RemoteProblem_BadCert" "Nuotolinis serveris pateikė sertifikatą, kurio negalima naudoti autentifikavimui."
-		"GameUI_Disconnect_ClosedByPeer" "Nuotolinis serveris uždarė ryšį."
-		"GameUI_Disconnect_ClosedByPeer_Timeout" "Nuotolinis serveris nustojo priimti ryšius ir uždarė ryšį."
+		"GameUI_Disconnect_Disconnected"					"Nuotolinis kompiuteris uždarė ryšį."
 		"GameUI_Disconnect_Unusual" "Atjungta.  Daugiau informacijos gali būti pateikta konsolėje."
 		"GameUI_Disconnect_InternalError" "Atjungta dėl vidinės klaidos.  Konsolėje gali būti daugiau informacijos."
 		
