@@ -313,6 +313,9 @@
 		"Workshop_FAQ"					"DUK apie „Counter-Strike“ dirbtuves"
 		"Update_Desc"					"Pakeitimai šiame atnaujinime:"
 		
+		// Map
+		"Map_Frame_Title"				"Žemėlapio publikavimas"
+		
 		"GameUI_Yes"					"Taip"
 		"GameUI_No"						"Ne"
 
@@ -1112,14 +1115,18 @@
 	"Month_November" "Lapkritis"
 	"Month_December" "December"
 	
-	//36521
+	//36902
 		"CSGO_Home"											"PAGRINDINIS"
 		"CSGO_MainMenu_Play"								"ŽAISTI"
 		"CSGO_MainMenu_Inventory"							"INVENTORIUS"
+		"CSGO_MainMenu_Loadout"								"EKIPUOTĖ"
 		"CSGO_MainMenu_Watch"								"ŽIŪRĖTI"
 		"CSGO_MainMenu_Awards"								"APDOVANOJIMAI"
+		"CSGO_MainMenu_Settings"			"NUSTATYMAI"
 		"CSGO_MainMenu_Options"								"NUSTATYMAI"
 		"CSGO_MainMenu_Online"								"PIRŠLYBOS"
+		"CSGO_MainMenu_Stats"				"CS360"
+		"CSGO_MainMenu_Store"				"PARDUOTUVĖ"
 		"CSGO_MainMenu_Offline"								"VIETINIS ŽAIDIMAS"
 		"CSGO_MainMenu_QuickMatchButton"					"GREITAS ŽAIDIMAS"
 		"CSGO_MainMenu_CustomMatchButton"					"SURASTI ŽAIDIMĄ"
@@ -1134,11 +1141,11 @@
 		"CSGO_MainMenu_AchievementsButton"					"PASIEKIMAI"
 		"CSGO_MainMenu_StatsButton"							"Statistika"
 		"CSGO_MainMenu_ControlsButton"						"Valdymo pultelis"
-		"CSGO_MainMenu_MouseKeyboardButton"					"Klaviatūra ir pelė"
+		"CSGO_MainMenu_MouseKeyboardButton"					"Klaviatūra / Pelė"
 		"CSGO_MainMenu_SettingsButton"						"Žaidimo nustatymai"
 		"CSGO_MainMenu_VideoSettings"						"Vaizdo nustatymai"
 		"CSGO_MainMenu_AudioSettings"						"Garso nustatymai"
-		"CSGO_MainMenu_CreditsButton"						"Kreditai"
+		"CSGO_MainMenu_CreditsButton"						"Akredetacijos"
 		
 		//36571
 		"store_tab_newstore"								"Nauji Leidiniai"
@@ -1167,6 +1174,7 @@
 		"inv_sort_wear"						"Nusidevėjimas"
 		"inv_sort_paint"					"Dažų rinkinys"
 		"inv_sort_quality"					"Kokybė"
+		"inv_nav_loadout"					"EKIPUOTĖ"
 	
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -2104,16 +2112,20 @@
 		"SFUI_TeamButtonSpectate"							"Stebėti"
 
 		
-
+		//36902
+		
 		
 
 
 		"Rarity_Default_Character"							"Numatytas"
+		"Rarity_Common_Character"							""
+		"Rarity_Uncommon_Character"							""
 		"Rarity_Rare_Character"								"Išskirtinis"
 		"Rarity_Mythical_Character"							"Išskirtinis"
 		"Rarity_Legendary_Character"						"Prasmingesnis"
 		"Rarity_Ancient_Character"							"Meistras"
 		"Rarity_Contraband_Character"						"Kontrabanda"
+		"Rarity_Arcana_Character"							""
 
 		"buymenu_weaponsexpert_reminder"					"Nusipirkite šį ginklą vieną kartą per žaidimą"
 		"buymenu_weaponsexpert_supply"						"Komandos įranga: <b>%s1</b>"
@@ -2129,6 +2141,7 @@
 
 	// SCOREBOARD INFO
 
+		//38757
 		"Scoreboard_money"    	 							"Pinigai"
 		"Scoreboard_lossmoneybonus"    	 					"Pralaimėjimo Premija"
 		"Scoreboard_kills"    	 							"K"
@@ -2181,6 +2194,8 @@
 		"Scoreboard_Final_Tie"								"{s:winning_team} ir {s:losing_team} baigė lygiosiomis!"
 		"Scoreboard_GG_The_Winner"							"{s:winning_player} yra laimėtojas!"
 
+
+		//38925
 		"gamephase_0"										"Apšilimas"
 		"gamephase_1"										"Žaidimas"
 		"gamephase_2"										"1-oji pusė"
