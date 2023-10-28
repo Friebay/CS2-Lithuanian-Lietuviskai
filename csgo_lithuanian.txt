@@ -163,10 +163,80 @@
 		"GameUI_Disconnect_Unusual" "Atjungta.  Daugiau informacijos gali būti pateikta konsolėje."
 		"GameUI_Disconnect_InternalError" "Atjungta dėl vidinės klaidos.  Konsolėje gali būti daugiau informacijos."
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		"Workshop_Preview_ShowStatTrak" "Rodyti StatTrak™"
 		"Workshop_Preview_ShowNameTag" "Rodyti vardo žymą"
 		"Workshop_Preview_Dialog_Title" "Dirbtuvių darbalaukis"
-		"Workshop_Preview_Workbench" "Darbo stalas"
+		"Workshop_Preview_Workbench" "Darbastalis"
 		"Workshop_Preview_Hold" "Laikyti"
 		"Workshop_Preview_GreenScreen" "Žaliasis ekranas"
 		"Workshop_Preview_SideView" "Šoninis vaizdas"
@@ -187,7 +257,7 @@
 		"Workshop_Preview_CurrentWear" "Dabartinis nusidėvėjimas:"
 		"Workshop_Preview_Submit" "Pateikti"
 		"Workshop_Preview_UVChart" "UV diagrama"
-		"Workshop_Preview_Pattern" "Modelis"
+		"Workshop_Preview_Pattern" "Raštas"
 		"Workshop_Preview_Guide" "Vadovas"
 		"Workshop_Preview_Resources" "Ištekliai"
 		"Workshop_Preview_FAQ" "DUK"
@@ -217,7 +287,31 @@
 		"Button_Model" "Modelis"
 		"Button_Musickit" "Muzikos rinkinys"
 		"Button_All" "Visi"
-		"Cancel_Button"					"Atšaukti"
+		
+		
+		// Publish File Dialog
+		"Frame_Untitled"				" "
+		"Button_Edit"					"Redaguoti..."
+		"Button_Remove"					"Pašalinti"
+		"Label_Name"					"Pavadinimas"
+		"Label_Directory"				"Katalogas"
+		"ShowFAQ"						"Daugiau informacijos..."
+		"Note" 							"Pastaba"
+		"Button_Search"					"Naršyti..."
+		"Warning"						"Įspėjimas"
+		"OK"							"OK"
+		"Cancel_Button"					"Cancel"
+		"Publish_Button"				"Atšaukti"
+		"Update_Button"					"Atnaujinti"
+		"Preview_Image"					"Peržiūrėti nuotrauką:"
+		"Title_Heading"					"Pavadinimas:"
+		"Description_Heading"			"Aprašymas:"
+		"Workshop_Agreement"			"Perskaičiau DUK apie dirbtuves ir sutinku su „Steam Workshop“ įnašo sutarties sąlygomis."
+		"Workshop_Contest"				"Įtrauktį šį elementą į CS:GO 10-mečio dirbtuvių konkursą"
+		"Copyrighted_Art"				"Aš suprantu, kad visos dirbtuvių pateiktys ir su jomis susiję meno kūriniai turi būti mano ir mano bendraautorių originalūs.\nJeigu taip nebus, įnašas bus pašalintas, aš prarasiu bet kokius pardavimus ir man gali būti uždrausta naudotis dirbtuvėmis ir (arba) "Steam".\nĮrašykite \"Aš suprantu\" į laukelį, tada spustelėkite mygtuką „Gerai“, kad tęstumėte."
+		"View_Agreement"				"Peržiūrėti susitarimą"
+		"Workshop_FAQ"					"DUK apie „Counter-Strike“ dirbtuves"
+		"Update_Desc"					"Pakeitimai šiame atnaujinime:"
 		
 		"GameUI_Yes"					"Taip"
 		"GameUI_No"						"Ne"
@@ -228,6 +322,9 @@
 		"GameUI_Clock_Format"			"Kalendoriaus laiko formatas"
 		"GameUI_Clock_12hr"				"12 valandų"
 		"GameUI_Clock_24hr"				"24 valandų"
+		
+		
+		"Cancel_Button"					"Atšaukti"
 		
 // GAMEUI_ENGLISH.txt
 // ---------------------------------------------------------------------------------------------
@@ -763,6 +860,10 @@
 		
 		//28367
 		"SFUI_MainMenu_Stats"				"CS:GO 360 STATISTIKA"
+		
+		//28729
+		"SFUI_MainMenu_News_Title"			"Naujienos"
+		"SFUI_MainMenu_News_Title_uppercase"  "NAUJIENOS"
 		
 		//28770
 		"SFUI_InvPanel_sort_inv_sort_rarity"		"Kokybė"
