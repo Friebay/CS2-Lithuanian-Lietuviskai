@@ -929,10 +929,10 @@
 // CHAT_ENGLISH.txt
 // ---------------------------------------------------------------------------------------------
 
+
 // ---------------------------------------------------------------------------------------------
 // vgui_english.txt
 
-	//742
 	"Console_Title"		"Konsolė"
 	"Console_Submit"	"Pateikti"
 	
@@ -940,6 +940,26 @@
 	"FileOpenDialog_Save"		"Išsaugoti"
 	"FileOpenDialog_Select"		"Pasirinkti"
 	"FileOpenDialog_Cancel"		"Atšaukti"
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	"vgui_ok"			"Gerai"
 	"vgui_close"			"Uždaryti"
