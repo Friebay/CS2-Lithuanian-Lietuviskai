@@ -37365,7 +37365,7 @@
 
 
 
-		"loadout_clear_filters"				"Išvalyti filtrus"
+		"loadout_clear_filters"			"Išvalyti filtrus"
 		"loadout_equip_t"				"T EKIPUOTĖ"
 		"loadout_equip_ct"				"CT EKIPUOTĖ"
 
